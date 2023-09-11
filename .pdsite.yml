@@ -1,0 +1,15 @@
+# pdsite configuration
+
+theme: ddays
+inputextension: .md
+outputfolder: .public
+sitepath: /bremen2024
+
+# Site-wide template variables
+
+bootswatch: spacelab
+sitename: "Dynamics Days Europe - Bremen 2024"
+pagetitle-suffix: ""
+footer: "My pdsite footer"
+contactemail: "marcel.oliver@ku.de"
+
