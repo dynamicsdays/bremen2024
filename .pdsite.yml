@@ -1,6 +1,6 @@
 # pdsite configuration
 
-theme: ddays
+theme: bremen2024
 inputextension: .md
 outputfolder: .public
 sitepath: /bremen2024
