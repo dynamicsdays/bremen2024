@@ -7,9 +7,9 @@ sitepath: /bremen2024
 
 # Site-wide template variables
 
-bootswatch: spacelab
+bootswatch: lumen
 sitename: "Dynamics Days Europe - Bremen 2024"
 pagetitle-suffix: ""
 footer: "My pdsite footer"
-contactemail: "marcel.oliver@ku.de"
+contactemail: "bremen2024@dynamicsdays.eu"
 

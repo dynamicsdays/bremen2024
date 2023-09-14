@@ -4,6 +4,9 @@
 #
 # Some additions and deletions by M.O.
 
+.code
+.public
+
 # Backup and autosave files:
 *~
 *#

@@ -10,7 +10,7 @@ Bremen, July 29 - August 2, 2024
 
 [**Dynamics Days Europe**](https://dynamicsdays.eu/) is a series of major international conferences founded in the 1980's that provides a European forum for developments in the theory and applications of dynamics. For more than 40 years, it has been bringing together researchers from a wide range of backgrounds including physics, mathematics, biology, and engineering for interdisciplinary research in nonlinear science. 
 
-#### Topics
+### Conference Topics
 
 *    Ergodic theory, topological and homogeneous dynamics
 *    Dynamics on graphs
@@ -23,3 +23,10 @@ Bremen, July 29 - August 2, 2024
 *    Medical and neuro-dynamics
 *    _and more_
 
+### Contact
+
+*    [bremen2024@dynamicsdays.eu](mailto:bremen2024@dynamicsdays.eu)
+
+### The City of Bremen
+
+<a title="Wolfgang Kundel, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bremen_von_oben.jpg"><img style="width: 100%;float: center;" alt="Bremen von oben" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bremen_von_oben.jpg/1024px-Bremen_von_oben.jpg"></a>
