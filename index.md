@@ -23,6 +23,13 @@ Bremen, July 29 - August 2, 2024
 *    Medical and neuro-dynamics
 *    _and more_
 
+### Stay informed
+
+*    Subscribe to the general [Dynamics Days Europe mailing list](https://onsager.ugr.es/mailman3/mailman3/lists/dynamics_days.onsager.ugr.es/)
+*    Subscribe to the [Bremen 2024 mailing list](https://mailman.zfn.uni-bremen.de/cgi-bin/mailman/listinfo/ddays2024bremen)
+
+Initial calls for participation will go via both lists, Bremen-specific details only via the second.
+
 ### Contact
 
 *    [bremen2024@dynamicsdays.eu](mailto:bremen2024@dynamicsdays.eu)
