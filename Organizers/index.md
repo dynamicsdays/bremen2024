@@ -18,7 +18,7 @@ pagetitle: Organizers
 [Yuliya Kyrychko](https://profiles.sussex.ac.uk/p260256-yuliya-kyrychko), University of Sussex, UK \
 [Marcel Oliver](https://mids.ku.de/oliver/), KU Eichstätt-Ingolstadt, Germany \
 [Ulrich Parlitz](https://www.uni-goettingen.de/en/105320.html), MPI for Dynamics and Self-Organization Göttingen, Germany \
-[Anke Pohl](https://user.math.uni-bremen.de/apohl/), Universtiy of Bremen, Germany \
+[Anke Pohl](https://user.math.uni-bremen.de/apohl/), University of Bremen, Germany \
 Lucia Russo, STEMS-CNR, Italy \
 [Eckehard Schöll](https://www.itp.tu-berlin.de/schoell/nlds/ag_schoell/), TU Berlin, Germany \
 [Constantinos Siettos](https://www.siettos.net/), University of Naples Federico II, Italy (chair) \
