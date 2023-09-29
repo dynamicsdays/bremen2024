@@ -27,17 +27,16 @@ Lucia Russo, STEMS-CNR, Italy \
 
 ## Local Organizing Team
 
-Igors Gorbovickis \
-Marc-Thorsten Hütt \
-Marc Keßeböhmer \
-Keivan Mallahi-Karai \
-Hildegard Meyer-Ortmanns \
-Marcel Oliver \
-Ivan Ovsyannikov \
-Sören Petrat \
-Anke Pohl \
-Jens Rademacher \
-Roland Welter 
-
+Igors Gorbovickis (Constructor University) \
+Marc-Thorsten Hütt (Constructor University) \
+Marc Keßeböhmer (University of Bremen) \
+Keivan Mallahi-Karai (Constructor University) \
+Hildegard Meyer-Ortmanns (Constructor University) \
+Marcel Oliver (KU Eichstätt-Ingolstadt) \
+Ivan Ovsyannikov (Constructor University) \
+Sören Petrat (Constructor University) \
+Anke Pohl (University of Bremen) \
+Jens Rademacher (University of Hamburg) \
+Roland Welter (University of Hamburg)
 
 
