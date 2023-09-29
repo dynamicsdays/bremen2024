@@ -6,7 +6,7 @@ pagetitle: Organizers
 
 [Peter Ashwin](https://mathematics.exeter.ac.uk/staff/pashwin?sm=pashwin), University of Exeter \
 [Roberto Artuso](https://uninsubria.unifind.cineca.it/get/person/000124), Universita degli Studi dell'Insubria, Como, Italy \
-[Daniele Avitabele](https://www.danieleavitabile.com/), VU Amsterdam, The Netherlands \
+[Daniele Avitabile](https://www.danieleavitabile.com/), VU Amsterdam, The Netherlands \
 [Wael Bahsoun](https://www.lboro.ac.uk/departments/maths/staff/wael-bahsoun/), Loughborough University, UK \
 [Murilo da Silva Baptista](https://www.abdn.ac.uk/icsmb/people/profiles/murilo.baptista), University of Aberdeen, UK \
 [Christian Beck](https://webspace.maths.qmul.ac.uk/c.beck/), Queen Mary University of London, UK \
