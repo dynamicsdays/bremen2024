@@ -7,5 +7,6 @@
 - [Viola Priesemann](https://www.viola-priesemann.de/), Max-Planck-Institute for Dynamics and Self-Organization & Universität Göttingen 
 - [Vered Rom-Kedar](https://www.wisdom.weizmann.ac.il/~vered/), Weizmann Institute
 - [Omri Sarig](https://www.weizmann.ac.il/math/sarigo/), Weizmann Institute 
-- [Vlad Vicol](https://cims.nyu.edu/~vicol/), Courant Institute 
-_more to come_
+- [Vlad Vicol](https://cims.nyu.edu/~vicol/), Courant Institute
+
+_more to come..._
