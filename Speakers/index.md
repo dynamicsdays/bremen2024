@@ -4,6 +4,7 @@
 - [Hillel Furstenberg](https://mathematics.huji.ac.il/people/hillel-furstenberg),  The Hebrew University of Jerusalem
 - [Ursula Hamenstädt](https://www.math.uni-bonn.de/people/ursula/), Universität Bonn
 - [Jürgen Kurths](https://www.pik-potsdam.de/members/kurths), PIK Potsdam & Humboldt-Universität Berlin
+- [Katharina Krischer](https://www.professoren.tum.de/krischer-katharina), TUM
 - [Viola Priesemann](https://www.viola-priesemann.de/), Max-Planck-Institute for Dynamics and Self-Organization & Universität Göttingen 
 - [Vered Rom-Kedar](https://www.wisdom.weizmann.ac.il/~vered/), Weizmann Institute
 - [Omri Sarig](https://www.weizmann.ac.il/math/sarigo/), Weizmann Institute 
