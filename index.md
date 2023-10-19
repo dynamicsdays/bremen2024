@@ -23,6 +23,15 @@ Bremen, July 29 - August 2, 2024
 *    Medical and neuro-dynamics
 *    _and more_
 
+### Dates and Deadlines
+
+* Upcoming: **Deadline for [proposing minisymposia](Minisymposia): December 31, 2023**
+* Early bird [registration](Registration) opens: March 1, 2024
+* Deadline for submitting minisymposium talks, contributed talks, and
+  posters: March 15, 2024
+* Early bird registration deadline: April 30, 2024
+* Late registration deadline: June 30, 2024
+
 ### Stay informed
 
 *    Subscribe to the general [Dynamics Days Europe mailing list](https://onsager.ugr.es/mailman3/mailman3/lists/dynamics_days.onsager.ugr.es/)
