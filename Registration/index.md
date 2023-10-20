@@ -2,13 +2,19 @@
 pagetitle: Registration
 ---
 
+## Registration opens **March 1, 2024** ##
+
 ## _Tentative_ conference fees
 
-_All fees are subject to change! Final fees will be announced no later than March 1, 2024._
 
 * Regular registration: € 220 (early bird), € 260 (late registration)
-* Young scientist (non-tenure track, up to 5 years after PhD at time of conference): € 180 (early bird), € 200 (late registration)
+* Young scientis: € 180 (early bird), € 200 (late registration)
 * Student participants:  € 100
+
+Young scientists are researchers on a fixed-term, non-tenure-track position.
+
+_We are hopeful that we are able to further reduce these fees.  The
+final amounts will be announced before registration opens._
 
 ## Accommodation
 
