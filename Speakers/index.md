@@ -1,5 +1,6 @@
 % Confirmed plenary speakers
 
+- [Dani S. Bassett](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/danielle-bassett), University of Pennsylvania & Santa Fe Institute
 - [Viviane Baladi](http://baladi.perso.math.cnrs.fr/), Sorbonne Université
 - [Hillel Furstenberg](https://mathematics.huji.ac.il/people/hillel-furstenberg),  The Hebrew University of Jerusalem
 - [Ursula Hamenstädt](https://www.math.uni-bonn.de/people/ursula/), Universität Bonn
