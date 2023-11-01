@@ -28,3 +28,7 @@ ergodic theory.
 ### Bremen City Hall – A UNESCO World Heritage Site
 
 <a title="Arne Hückelheim, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:BremenCityHall.JPG"><img style="width: 80%;float: center;" alt="BremenCityHall" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/BremenCityHall.JPG/1024px-BremenCityHall.JPG"></a>
+
+### The City of Bremen
+
+<a title="Wolfgang Kundel, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bremen_von_oben.jpg"><img style="width: 80%;float: center;" alt="Bremen von oben" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bremen_von_oben.jpg/1024px-Bremen_von_oben.jpg"></a>

@@ -2,8 +2,8 @@
 pagetitle: Home
 ---
 
-Dynamics Days Europe
-====================
+XLIV Dynamics Days Europe
+=========================
 
 Bremen, July 29 - August 2, 2024
 --------------------------------
@@ -43,6 +43,6 @@ Initial calls for participation will go via both lists, Bremen-specific details 
 
 *    [bremen2024@dynamicsdays.eu](mailto:bremen2024@dynamicsdays.eu)
 
-### The City of Bremen
+<br>
 
-<a title="Wolfgang Kundel, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bremen_von_oben.jpg"><img style="width: 100%;float: center;" alt="Bremen von oben" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bremen_von_oben.jpg/1024px-Bremen_von_oben.jpg"></a>
+<img style="width: 100%;float: center;" src="Bremen2024_small.jpg" alt="" title="Dynamics Days Europe, Bremen 2024" />
