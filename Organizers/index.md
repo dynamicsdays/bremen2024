@@ -30,6 +30,7 @@ Lucia Russo, STEMS-CNR, Italy \
 Igors Gorbovickis (Constructor University) \
 Marc-Thorsten Hütt (Constructor University) \
 Marc Keßeböhmer (University of Bremen) \
+Stefan Kettemann (Constructor University) \
 Keivan Mallahi-Karai (Constructor University) \
 Hildegard Meyer-Ortmanns (Constructor University) \
 Marcel Oliver (KU Eichstätt-Ingolstadt) \
