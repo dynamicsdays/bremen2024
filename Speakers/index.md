@@ -8,7 +8,7 @@
 - [Jürgen Kurths](https://www.pik-potsdam.de/members/kurths), PIK Potsdam & Humboldt-Universität Berlin
 - [Katharina Krischer](https://www.professoren.tum.de/krischer-katharina), TUM
 - [Viola Priesemann](https://www.viola-priesemann.de/), Max-Planck-Institute for Dynamics and Self-Organization & Universität Göttingen 
-- [Klaus Richter](www.uni-regensburg.de/physics/richter/complex-quantum-systems), Universität Regensburg
+- [Klaus Richter](https://www.uni-regensburg.de/physics/richter/complex-quantum-systems), Universität Regensburg
 - [Vered Rom-Kedar](https://www.wisdom.weizmann.ac.il/~vered/), Weizmann Institute
 - [Omri Sarig](https://www.weizmann.ac.il/math/sarigo/), Weizmann Institute 
 - [Laurette Tuckerman](https://blog.espci.fr/laurette/), Sorbonne Université
