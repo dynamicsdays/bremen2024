@@ -13,14 +13,16 @@ Bremen, July 29 - August 2, 2024
 ### Conference Topics
 
 *    Ergodic theory, topological and homogeneous dynamics
-*    Dynamics on graphs
+*    Network dynamics
 *    Machine Learning
 *    Bifurcation theory
 *    Dynamics and geometry
 *    Nonlinear waves
-*    Fluids
+*    Fluids and turbulence
 *    Computational methods
 *    Medical and neuro-dynamics
+*    Quantum Chaos
+*    Multibody dynamics
 *    _and more_
 
 ### Dates and Deadlines
