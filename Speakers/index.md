@@ -5,6 +5,7 @@
 - [Hillel Furstenberg](https://mathematics.huji.ac.il/people/hillel-furstenberg),  The Hebrew University of Jerusalem
 - [Dimitris Giannakis](https://giannakis.host.dartmouth.edu/), Dartmouth College
 - [Ursula Hamenstädt](https://www.math.uni-bonn.de/people/ursula/), Universität Bonn
+- [Martin Hairer](https://www.hairer.org/), EPFL and Imperial College
 - [Jürgen Kurths](https://www.pik-potsdam.de/members/kurths), PIK Potsdam & Humboldt-Universität Berlin
 - [Katharina Krischer](https://www.professoren.tum.de/krischer-katharina), TUM
 - [Viola Priesemann](https://www.viola-priesemann.de/), Max-Planck-Institute for Dynamics and Self-Organization & Universität Göttingen 
