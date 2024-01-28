@@ -1,6 +1,6 @@
 % Confirmed plenary speakers
 
-- [Antje Boetius](https://www.awi.de/ueber-uns/organisation/mitarbeiter/detailseite/antje-boetius.html) Alfred Wegener Institute for Polar and Marine Research, Bremerhaven
+- [Antje Boetius](https://www.awi.de/ueber-uns/organisation/mitarbeiter/detailseite/antje-boetius.html), Alfred Wegener Institute for Polar and Marine Research, Bremerhaven
 - [Dani S. Bassett](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/danielle-bassett), University of Pennsylvania & Santa Fe Institute
 - [Viviane Baladi](http://baladi.perso.math.cnrs.fr/), Sorbonne Université
 - [Hillel Furstenberg](https://mathematics.huji.ac.il/people/hillel-furstenberg),  The Hebrew University of Jerusalem
