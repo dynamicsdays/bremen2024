@@ -27,7 +27,6 @@ Bremen, July 29 - August 2, 2024
 
 ### Dates and Deadlines
 
-* Upcoming: **Deadline for [proposing minisymposia](Minisymposia): December 31, 2023**
 * Early bird [registration](Registration) opens: March 1, 2024
 * Deadline for submitting minisymposium talks, contributed talks, and
   posters: March 15, 2024

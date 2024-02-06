@@ -1,8 +1,8 @@
 ---
-pagetitle: Minisymposia DRAFT
+pagetitle: Accepted Minisymposia 
 ---
 
-# List of accepted minisymposia, _DRAFT VERSION_
+# Accepted minisymposia 
 
 ### Integrated time series analysis and machine learning to analyze dynamical complex systems
 
@@ -21,15 +21,17 @@ to provide an state of art view about this new approach.
 #### Organizers:
 
 * [Elbert E. N. Macau](mailto:elbert.macau@unifesp.br), Federal University of São Paulo
-* [Cristina Masoller](mailto:cristina.massoler@upc.edu), Universitat Politecnica de Catalunya
+* [Cristina Masoller](mailto:cristina.masoller@gmail.com), Universitat Politecnica de Catalunya
 
 Speakers:
 
 * Michale Small, The University of Western Australia
 * Thomas Stemler, The University of Western Australia
 * Kelly C. Iarsoz, Centro Universitário UNIFATEB, Brazil
-* Immaculada Leyva (tbc), Universidad Rey Juan Carlos
+* Inmaculada Leyva, Universidad Rey Juan Carlos
 * Elbert E. N. Macau, Federal University of São Paulo
+
+
 
 ### Multistability and global stability analysis
 
@@ -84,24 +86,26 @@ This session will focus on the analysis and numerical computations of nonlinear 
 
 #### Speakers:
 
-* Hannes Uecker (hannes.uecker@uol.de)
-* Yakov Shnir (shnir@theor.jinr.ru)
-* Laurette Tuckerman (Laurette.Tuckerman@espci.fr) 
-* Konstantinos Makris (makris@physics.uoc.gr)       
-* Mihalis Kavousanakis (mihkavus@chemeng.ntua.gr) 
-* Keith Promislow (tbc) (PROMISLO@msu.edu)            
-* Avadh Saxena (avadh@lanl.gov)                                 
-* Stathis Charalampidis (echarala@calpoly.edu)                                                          
-* Sergej Flach (sergejflach@googlemail.com)                    
-* Amin Chabchoub (amin.chabchoub@sydney.edu.au)                 
-* Niurka R. Quintero (niurka@us.es)                             
-* Igor Barashenkov (igor.barashenkov@gmail.com)               
-* Edgar Knobloch (knobloch@berkeley.edu)                       
-* Takashi Sakajo (takashi.sakajo@gmail.com)
-* Jutta Kunz (jutta.kunz@uni-oldenburg.de)
-* Ivan Christov (christov@purdue.edu)                              (Tentative)
-* Carlo Barenghi (carlo.barenghi@newcastle.ac.uk) 
-* Darryl Holm (d.holm@imperial.ac.uk) (online)
+* Hannes Uecker, University of Oldenburg
+* Yakov Shnir, Bogoliubov Laboratory of Theoretical Physics 
+* Laurette Tuckerman, Sorbonne Université 
+* Konstantinos Makris, University of Crete
+* Mihalis Kavousanakis, National Technical University of Athens
+* Keith Promislow, Michigan State University
+* Avadh Saxena, Los Alamos National Laboratory
+* Stathis Charalampidis, Cal Poly San Luis Obispo 
+* Sergej Flach,  Institute for Basic Science Daejeon
+* Amin Chabchoub, The University of Sydney 
+* Niurka R. Quintero, Universidad Carlos III de Madrid 
+* Igor Barashenkov, University of Cape Town
+* Edgar Knobloch, UC Berkeley
+* Takashi Sakajo, Kyoto University 
+* Ivan Christov, Purdue University (Tentative)
+* Carlo Barenghi, Newcastle University
+* Darryl Holm, Imperial College London (online)
+* Justin Cole, University of Colorado at Colorado Springs
+* Haralambos Skokos, University of Cape Town
+* Jutta Kunz, University of Oldenburg (Tentative)
 
 ### Vegetation pattern formation
 
@@ -118,14 +122,14 @@ The aim of the proposed mini-symposium is to present recent advances and challen
 
 #### Speakers:
 
-* Annalisa Iuorio, Parthenope University of Naples (annalisa.iuorio@uniparthenope.it)
-* Lukas Eigentler, University of Warwick (Lukas.Eigentler@warwick.ac.uk)
-* Ricardo Martínez-García, Helmholtz-Zentrum Dresden-Rossendorf (r.martinez-garcia@hzdr.de)
-* Yuval Zelnik, Swedish University of Agricultural Sciences (yuval.zelnik@slu.se)
-* Damia Gomila, IFISC (damia@ifisc.uib-csic.es)
-* David Pinto, Helmholtz-Zentrum Dresden-Rossendorf (david.pinto@ug.uchile.cl)
-* Joydeep Singha,  Ben-Gurion University (joydeep@post.bgu.ac.il)
-* Michel Ferré, Ben-Gurion University (ferre@post.bgu.ac.il)
+* Annalisa Iuorio, Parthenope University of Naples
+* Lukas Eigentler, University of Warwick 
+* Ricardo Martínez-García, Helmholtz-Zentrum Dresden-Rossendorf 
+* Yuval Zelnik, Swedish University of Agricultural Sciences 
+* Damia Gomila, IFISC 
+* David Pinto, Helmholtz-Zentrum Dresden-Rossendorf 
+* Joydeep Singha,  Ben-Gurion University
+* Michel Ferré, Ben-Gurion University
 
 ### Dimensional reduction of chaotic dynamics
 
@@ -323,7 +327,7 @@ This minisymposium brings together leading experts in the area of restricted des
 #### Organizers:
 
 * [Alexander Lohse](mailto:alexander.lohse@math.uni-hamburg.de), Universität Hamburg
-* [Sören von der Gracht](mailto:soeren.von.der.gracht@uni-paderborn.de)
+* [Sören von der Gracht](mailto:soeren.von.der.gracht@uni-paderborn.de), Paderborn University
 
 #### Speakers:
 
@@ -332,25 +336,31 @@ This minisymposium brings together leading experts in the area of restricted des
 * Muhammed Fadera, University of Exeter
 * N.N.
 
+
 ### Current topics in delay equations
+ 
+The minisymposium highlights recent advancements on delay differential
+equations, functional differential equations and renewal equations,
+which play an important role in various application areas, including
+balancing and control, machining, nonlinear optics, neuroscience,
+population dynamics, climate modelling, among others. 
 
-The minisymposium highlights recent advancements on delay differential equations, functional differential equations and renewal equations, which play an important role in various application areas, including balancing and control, machining, nonlinear optics, neuroscience, population dynamics, climate modelling, among others.
-
-#### Organizers:
+#### Organizers: 
 
 * [Stefan Ruschel](mailto:S.Ruschel@leeds.ac.uk), Leeds
-* [Babette de Wolff](mailto:b.wolff@vu.nl), VU Amsterdam
+* [Babette de Wolff](mailto:b.wolff@vu.nl), VU Amsterdam 
 
-#### Speakers:
+#### Speakers: 
 
 * Alessia Andò (Udine)
-*     Mark van den Bosch (Leiden)
-*     Otti d’Huys (Maastricht)
-*     Bram Lentjes (Hasselt)
-*     Sarah Loos (Cambridge)
-*     Kyle Wedgwood (Exeter)
-*     Matthias Wolfrum (WIAS Berlin)
-*     Speaker 8 to be confirmed
+* Mark van den Bosch (Leiden)
+* Otti d’Huys (Maastricht)
+* Bram Lentjes (Hasselt)
+* Sarah Loos (Cambridge)
+* Isabelle Schneider (FU Berlin)
+* Kyle Wedgwood (Exeter)
+* Matthias Wolfrum (WIAS Berlin)
+
 
 ### Dynamics of reservoir computers
 
@@ -381,12 +391,12 @@ room.
 #### Organizers:
 
 * [Andrew Flynn](mailto:andrewflynn@ucc.ie), University College Cork
-* [Christoph Räth](mailto:Christoph.Raeth@dlr.de), Institut für KI Sicherheit, , DLR Ulm
+* [Christoph Räth](mailto:Christoph.Raeth@dlr.de), German Aerospace Center (DLR)
 
 #### Speakers:
 
-*  Andrew Flynn, University College Cork
-* Christoph Räth, German Aerospace Center
+* Andrew Flynn, University College Cork
+* Christoph Räth, German Aerospace Center (DLR)
 * Kathy Lüdge, Ilmenau University of Technology
 * Ying-Cheng Lai, Arizona State University
 * Miguel C. Soriano, IFISC, Spain
@@ -396,6 +406,8 @@ room.
 * Giulia Marcucci, University of Glasgow
 * André Röhm, University of Tokyo
 * Dan Gauthier, Ohio State University
+* N.N.
+
 
 #### Potential backup speakers:
 
@@ -441,8 +453,8 @@ to dynamical systems modeling and real-world modeling applications.
 
 #### Organizers:
 
-* [Rahel Vortmeyer-Kley](rahel.vortmeyer-kley@uni-oldenburg.de), Universität Oldenburg
-* [Pascal Nieters](pascal.nieters@uni-osnabrueck.de),  Universität Osnabrück
+* [Rahel Vortmeyer-Kley](mailto:rahel.vortmeyer-kley@uni-oldenburg.de), Universität Oldenburg
+* [Pascal Nieters](mailto:pascal.nieters@uni-osnabrueck.de),  Universität Osnabrück
 
 #### Speakers:
 
@@ -458,10 +470,10 @@ It is a fundamental challenge to understand how the function of a network is rel
 
 #### Organizers:
 
-* [Christian Kuehn](ckuehn@ma.tum.de), Technical University of Munich
-* [Jürgen Kurths](kurths@pik-potsdam.de), Potsdam Institute for Climate Impact Research
-* [Erik Martens](erik.martens@math.lth.se), Lund University
-* [Serhiy Yanchuk](syanchuk@ucc.ie), University College Cork
+* [Christian Kuehn](mailto:ckuehn@ma.tum.de), Technical University of Munich
+* [Jürgen Kurths](mailto:kurths@pik-potsdam.de), Potsdam Institute for Climate Impact Research
+* [Erik Martens](mailto:erik.martens@math.lth.se), Lund University
+* [Serhiy Yanchuk](mailto:syanchuk@ucc.ie), University College Cork
 
 #### Speakers:
 
@@ -471,8 +483,7 @@ It is a fundamental challenge to understand how the function of a network is rel
 * Andreas Amann (University College Cork, Ireland)
 * Kunihiko Kaneko (Københavns Universitet, Niels Bohr Institute, Denmark)
 * Fabrizio Lombardi (Institute of Science and Technology Austria)
-* Thilo Gross  (t.b.c.) (Universität Oldenburg, Germany)
-* Stuart Townley (t.b.c.) (University of Exeter, UK)
+* Thilo Gross (Universität Oldenburg, Germany)
 
 ### Nonlinear dynamics in music perception and production
 
@@ -480,7 +491,7 @@ Recent advances in networked physiology and brain dynamics in music perception a
 
 #### Organizer:
 
-* [Rolf Bader](r_bader@t-online.de), Universität Hamburg
+* [Rolf Bader](mailto:r_bader@t-online.de), Universität Hamburg
 
 #### Speakers:
 
@@ -512,25 +523,28 @@ power grids and ways to analyze and improve their stability.
 
 #### Organizers:
 
-* [Mehrnaz Anvari](mehrnaz.anvari@scai.fraunhofer.de), Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)
-* [Frank Hellmann](hellmann@pik-potsdam.de), Potsdam Institute for Climate Impact Research
-* [Simona Olmi](simona.olmi@fi.isc.cnr.it), Institute for Complex Systems - CNR & INFN, Sezione di Firenze
-* [Benjamin Schäfer](benjamin.schaefer@kit.edu), Karlsruhe Institute of Technology
+* [Mehrnaz Anvari](mailto:mehrnaz.anvari@scai.fraunhofer.de), Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)
+* [Frank Hellmann](mailto:hellmann@pik-potsdam.de), Potsdam Institute for Climate Impact Research
+* [Simona Olmi](mailto:simona.olmi@fi.isc.cnr.it), Institute for Complex Systems - CNR & INFN, Sezione di Firenze
+* [Benjamin Schäfer](mailto:benjamin.schaefer@kit.edu), Karlsruhe Institute of Technology
 
 #### Speakers:
 
-* Pere Colet (Instituto de Fsica Interdisciplinar y Sistemas Com-
-plejos, IFISC (CSIC-UIB), Palma, Spain)
+* Pere Colet (Instituto de Fsica Interdisciplinar y Sistemas Complejos, IFISC (CSIC-UIB), Palma, Spain)
 * Robin Delabays (Institute HES-SO, Switzerland) 
 * Heetae Kim (Department of Energy Engineering, Korea Institute
 of Energy Technology) 
-* Klaus Lehnertz (University of Bonn, Germany) 
+* Timo Broehl (University of Bonn, Germany) 
 * Yuri Maistrenko (Potsdam Institute for Climate Impact Research, Germany)
 * Géza Ódor (Institute of Technical Physics and Materials Science, Budapest, Hungary) 
 * Simona Olmi (Institute for Complex Systems - CNR, Italy) 
 * Kathrin Schmitendorf (Center for Nonlinear Science, Münster, Germany)
 * Eckehard Schöll (Institut für Theoretische Physik, Technische Universität Berlin, Germany) 
-* Marc Timme (Technische Universität Dresden, Germany)
+* Frieder Bönisch (TBC) (Technische Universität Dresden, Germany)
+* Tobias Ohlinger (Fraunhofer Institute for Algorithms and Scientific Computing (SCAI))
+* Christian Nauck (Potsdam Institute for Climate Impact Research)
+* Qiong Huang (Karlsruhe Institute of Technology)
+
 
 ### Nonequilibrium phase transitions and critical collective behavior in networks
 
@@ -548,42 +562,37 @@ in neuroscience, power grids, social networks, etc.
 
 #### Organizers:
 
-* [Eckehard Schöll](schoell@physik.tu-berlin.de), Institut für Theoretische Physik, Technische Universität Berlin & Potsdam Institute for Climate Impact Research (PIK) & Bernstein Center for Computational Neuroscience (BCCN), Berlin
-* [Simona Olmi](simona.olmi@fi.isc.cnr.it), Institute for Complex Systems - CNR & INFN, Sezione di Firenze
-* [Ralph G. Andrzejak](ralph.andrzejak@upf.edu), Universitat Pompeu Fabra, Barcelona
+* [Eckehard Schöll](mailto:schoell@physik.tu-berlin.de), Institut für Theoretische Physik, Technische Universität Berlin & Potsdam Institute for Climate Impact Research (PIK) & Bernstein Center for Computational Neuroscience (BCCN), Berlin
+* [Simona Olmi](mailto:simona.olmi@fi.isc.cnr.it), Institute for Complex Systems - CNR & INFN, Sezione di Firenze
+* [Ralph G. Andrzejak](mailto:ralph.andrzejak@upf.edu), Universitat Pompeu Fabra, Barcelona
 
 #### Speakers:
 
-* Serhiy Yanchuk (University College Cork, Ireland) 
-* Mehrnaz Anvari (Fraunhofer Institute for Algorithms and Scientific Computing, Sankt Augustin, Germany) 
+* Serhiy Yanchuk (University College Cork, Ireland)
+* Mehrnaz Anvari (Fraunhofer Institute for Algorithms and Scientific Computing, Sankt Augustin, Germany)
 * Igor Franović (Center for the Study of Complex Systems Institute
-of Physics Belgrade, University of Belgrade, Serbia) 
-* Andreas Amann (University College Cork, Ireland) 
+of Physics Belgrade, University of Belgrade, Serbia)
+* Andreas Amann (University College Cork, Ireland)
 * Astero Provata (National Center for Scientific Research “Demokri-
 tos”, Agia Paraskevi, Greece)
-* Inmaculada Leyva (Complex Systems Group & GISC - Universidad Rey Juan Carlos, Spain) 
+* Inmaculada Leyva (Complex Systems Group & GISC - Universidad Rey Juan Carlos, Spain)
 * Jaroslav Hlinka (Institute of Computer Science, Czech Academy
-of Sciences, Prague, Czech Republic) 
+of Sciences, Prague, Czech Republic)
 * Rok Cestnik (Centre for Mathematical Sciences, Lund University,
 Sweden)
 * Stefan Bornholdt (Institute for Theoretical Physics, University
-of Bremen, Germany) 
+of Bremen, Germany)
 * Jakub Sawicki (Potsdam Institute for Climate Impact Research,
 Germany)
 * Fakhteh Ghanbarnejad (Potsdam Institute for Climate Impact
-Research, Germany) 
+Research, Germany)
 * Plamen Ivanov (Department of Physics, Boston University, USA)
 * Yong Xu (School of Mathematics and Statistics, Northwestern
 Polytechnical University, Xi’an, China)
 * Theo Geisel (Max Planck Institute for Dynamics and Self-Organization,
-Göttingen, Germany) 
+Göttingen, Germany)
 * Erik Martens (Centre for Mathematical Sciences, Lund University, Sweden)
 
-#### Further potential Speakers:
-
-* Jens Christian Claussen (University of Birmingham)
-* Diego Rybski (Potsdam Institute for Climate Impact Research)
-* Johanne Hizanidis (Physics Department, University of Crete, Heraklion, Greece)
 
 ### Synchronization, pattern formation and symmetries in distributed dynamical systems
 
@@ -597,7 +606,7 @@ In the analysis of distributed dynamical systems in terms of synchronization, pa
 
 #### Organizer:
 
-* [Raphael Gerlach](rgerlach@math.uni-paderborn.de), Paderborn
+* [Raphael Gerlach](mailto:rgerlach@math.uni-paderborn.de), Paderborn
 
 #### Speakers:
 
@@ -625,32 +634,37 @@ disease dynamics.
 
 #### Organizer:
 
-* [Burcu Gürbüz](burcu.gurbuz@uni-mainz.de), Johannes Gutenberg-University Mainz
+* [Burcu Gürbüz](mailto:burcu.gurbuz@uni-mainz.de), Johannes Gutenberg-University Mainz
 
 #### Speakers:
 
-* 4 Speakers, not named yet
+* 4 Speakers (TBA)
 
 ### Turbulence, nonequilibrium,  and wind energy
 
-Turbulence is one of the major challenge of nonlinear science. It does not only play a crucial role for fundamental research but also for many applications. A very actual topic is the use of wind energy, as the energy resource, i.e. strong wind, is by its own nature highly nonlinear and turbulent. In the application one is typically confronted with many aspect of non ideal turbulent conditions. Thus besides the deeply elaborated homogeneous isotropic turbulence questions like nonequilibrium and non stationary turbulence attract more and more interest, as well as the transition to developed turbulence. In particular in the interaction of turbulence and wind energy systems the concepts of nonlinear dynamics become important to handle  this complex system.
+Turbulence is one of the major challenge of nonlinear science. It does not only play a crucial role for fundamental research but also for many applications. A very timely topic is the use of wind energy, as the energy resource, i.e. strong wind, is by its own nature highly nonlinear and turbulent. In the application one is typically confronted with many aspect of non ideal turbulent conditions. Thus besides the deeply elaborated homogeneous isotropic turbulence questions like nonequilibrium and non stationary turbulence attract more and more interest, as well as the transition to developed turbulence. In particular in the interaction of turbulence and wind energy systems the concepts of nonlinear dynamics become important to handle this complex system.
 
 
 #### Organizer:
 
-* [Joachim Peinke](joachim.peinke@uni-oldenburg.de)
+* [Joachim Peinke](mailto:joachim.peinke@uni-oldenburg.de) (Carl von Ossietzky University of Oldenburg, Germany)
+* [Raúl Bayoán Cal](mailto:cal@me.pdx.edu) (Portland State University, USA)
+ 
 
 #### Speakers:
 
-* Martin Obligado
-* Michael Wilczek
-* Jan Friedrich 
-* Christos Vasslicos
-* Ingrid Neunaber 
-* Oliver Buxton
-* Lason Hearst
-* Andre Fuchs
-* Thomas Messmer
+* Oliver Buxton. (Imperial College London, England)
+* Raúl Bayoán Cal (Portland State University, USA) 
+* Jan Friedrich (Carl von Ossietzky University of Oldenburg, Germany)
+* Andre Fuchs (Carl von Ossietzky University of Oldenburg, Germany)
+* Michael Hölling (Carl von Ossietzky University of Oldenburg, Germany)
+* Jason Hearst (NTNU, Trondheim Norwegen)
+* Thomas Messmer (Carl von Ossietzky University of Oldenburg, Germany)
+* Ingrid Neunaber (NTNU, Troneheim Norwegen)
+* Martin Obligado (École Centrale de Lille, Fance)
+* Michael Wilczek (University of Bayreuth, Germany)
+* N.N.
+* N.N. 
 
 ### Non-autonomous dynamics in complex systems: theory and applications to biological, ecological, and climate systems
 
@@ -665,21 +679,22 @@ ecosystems and the climate system are impacted by the climate crisis.
 
 #### Organizers:
 
-* [Ulrike Feudel](ulrike.feudel@uni-oldenburg.de), University Oldenburg
-* [Klaus Lehnertz](Klaus.Lehnertz@ukbonn.de), University Bonn
+* [Ulrike Feudel](mailto:ulrike.feudel@uni-oldenburg.de), University Oldenburg
+* [Klaus Lehnertz](mailto:Klaus.Lehnertz@ukbonn.de), University Bonn
 
 #### Speakers:
 
-* Klaus Lehnertz (University Bonn)
-* Aneta Koseska (Max-Planck-Institute for Neurobiology of Behavior, Bonn)
+* Klaus Lehnertz (University Bonn, Germany)
+* Aneta Koseska (Max-Planck-Institute for Neurobiology of Behavior, Bonn, Germany)
 * Syamal Dana (Jadavpur University Kolkata, India)
-* Max Rietkerk (University Leiden, The Netherlands)
-* Everton Medeiros (University Oldenburg)
+* Ying-Cheng Lai (Arizona State University, Tempe, USA)
+* Everton Medeiros (University Oldenburg, Germany)
 * Paul Ritchie (University Exeter, UK)
 * Martin Rasmussen (Imperial College London, UK)
-* Tamas Tel (Eötvös Lorand University Budapest, Hungary)
-* Stefano Pierini (Naples, Italy)
-* Camille Hankel (MIT, USA)
+* Johannes Lohmann (Nils Bohr Institute Copenhagen, Denmark)
+* Reyk Börner (University Reading, UK)
+* Hildegard Meyer-Ortmanns (Constructor University Bremen, Germany)
+
 
 ### Random Dynamical Systems
 
@@ -692,8 +707,8 @@ This minisymposium is devoted to such problems as mixing, ergodicity, and existe
 
 #### Speakers:
 
-*    Lucio Galeati (EPFL Lausanne) (TBC)
-*    Rishabh Gvalani (MPI Leipzig) (TBC)
+*    Lucio Galeati (EPFL Lausanne) 
+*    N.N.
 *    Tommaso Rosati (Uni Warwick)
 *    Milo Viviani (Scuola Normale Superiore Pisa)
 
@@ -715,12 +730,14 @@ Unfortunately, there is still a limited cross-disciplinary exchange among resear
 * Bernold Fiedler (Free University of Berlin)
 * Josef Hofbauer (University of Vienna)
 * Nidhi Kaihnsa (University of Copenhagen)
-* Edda Klipp (Humboldt University of Berlin)
+* Edda Klipp (Humboldt University of Berlin) (TBC)
 * Wei-Hsiang Lin (Academia Sinica, Taiwan)
 * Maya Mincheva (Northern Illinois University, USA)
 * Stefan Müller (University of Vienna)
 * Casian Pantea (West Virginia University, USA)
-* Hamid Rahkooy (University of Oxford, UK)
+* Hamid Rahkooy (University of Oxford, UK) (TBC)
+
+
 
 ### Energy transfers in atmosphere and ocean
 
@@ -769,8 +786,10 @@ units, and the mathematical methods used to analyze these phenomena.
 * Carlo Laing (Massey University, Auckland, New Zealand)
 * Oleh Omelchenko (University of Potsdam, Germany)
 * Arkady Pikovsky (University of Potsdam, Germany)
-* Astero Provata (National Center for Scientific Research ”Demokritos”, Athens, Greece)
+* Johanne Hizanidis (University of Crete, Heraklion, Greece)
 * Matthias Wolfrum (Weierstrass Institute, Berlin, Germany)
+
+
 
 ### Quantum simulation and computation at the edge of chaos
 
@@ -826,23 +845,23 @@ Dynamics and Self-Organization Göttingen  and DZHK
 
 #### Speakers:
 
-* Marcel Aron, MPI for Dynamics and Self-Organization  Göttingen and DZHK
-* Markus Baer, Physikalisch-Technische
-Bundesanstalt, Berlin, Germany
-* Omer Berenfeld,  University of Michigan, Ann Arbor, MI
-* Tim de Coster,  Leiden
-University Medical Center
+
+* Marcel Aron, MPI for Dynamics and Self-Organization Göttingen and DZHK
+* Markus Baer, Physikalisch-Technische Bundesanstalt, Berlin, Germany
+* Omer Berenfeld, University of Michigan, Ann Arbor, MI
+* Tim de Coster, Leiden University Medical Center
 * Julia Erhardt, University of Stuttgart
-* Alessio Gizzi, University of Rome
-“Campus Bio-Medico”
-* Marcel Hoerning, University of
-Stuttgart
+* Beata Graff, Medical University of Gdansk
 * Inga Kottlarz, University Medical Center Göttingen and DZHK
-* Marta Varela,  Imperial College, London
+* Martina Nicoletti, University of Rome “Campus Bio-Medico”
+* Thomas Lilienkamp, Nuremberg Institute of Technology Georg Simon Ohm
+* Alessandro Loppini, University of Rome “Campus Bio-Medico”
+* Niels Otani, Rochester Institute of Technology, NY
+* Nour Raad, Technical University of Munich
+* Daniel Suth, Nuremberg Institute of Technology Georg Simon Ohm
+* Marta Varela, Imperial College, London
 * Justine Wolter, University Medical Center Göttingen and DZHK
-* Niels Otani,  Rochester Institute of Technology, NY
-* Daniel Suth, Nuremberg Institute of Technology
-Georg Simon Ohm
+
 
 ### Nonlinear and stochastic dynamics in weather and climate science
 
@@ -859,3 +878,44 @@ The dynamics of the atmosphere, the ocean and the climate system as a whole are 
 * Oliver Mehling
 * Francesco Ragone
 * Stephane Vannitsem
+
+
+### Stability and Bifurcations of Hamiltonian Systems. Theory and Applications
+
+Hamiltonian systems constitute a significant class within dynamical
+systems, boasting numerous applications across various domains. In
+this mini-symposium, our goal is to incorporate some of the latest
+theoretical techniques and applications in this field, mainly
+regarding with the stability of solutions (equilibria, periodic and
+quasi-periodic solutions, and other related manifolds). Normally the
+stability character of these solutions depend on various parameters
+the Hamiltonian function depends upon, and varying these parameters
+lead to bifurcations of the solutions. The stability character (linear
+and non-linear) and the corresponding bifurcations are known for
+Hamiltonian systems up to two degrees of freedom but the analysis to
+higher degrees is far from trivial.  We will explore topics such as
+the Kolmogorov–Arnold–Moser (KAM) theorem, non-linear stability theory
+for exponentially long times, geometric approaches based on symplectic
+reduction of the symmetries the equations enjoy, and different types
+of normal forms either of local or global nature. We plan to deal with
+recent approaches concerning the theoretical aspect of stability and
+bifurcation theory, but also with an eye to applications in celestial
+mechanics or atomic physics.
+
+#### Organisers:
+
+* [Fahimeh Mokhtari](mailto:fahimeh.mokhtari.fm@gmail.com), Vrije Universiteit Amsterdam
+* [Jesús F. Palacián](mailto:palacian@unavarra.es), Universidad Pública de Navarra (Spain)
+* [Patricia Yanguas](mailto:yanguas@unavarra.es), Universidad Pública de Navarra (Spain)
+
+#### Speakers:
+
+* Martha Alvarez, Universidad Autónoma Metropolitana, Campus Iztapalapa (Mexico)
+* Gabriele Benedetti, Heidelberg University (TBC)
+* Víctor Lanchares, Universidad de La Rioja
+* Nikolay Martynchuk, University of Groningen 
+* Óscar Rodríguez, Universidad Politècnica de Catalunya
+* J. Pablo Salas, Universidad de La Rioja (TBC)
+* Ferdinand Verhulst, University of Utrecht
+* Holger Waalkens, University of Groningen
+* Lu Xu, University of Jilin (China)

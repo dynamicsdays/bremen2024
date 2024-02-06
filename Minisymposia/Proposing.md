@@ -4,7 +4,7 @@ pagetitle: Minisymposia
 
 # Call for minisymposium proposals
 
-Prospective minisymposium organizers are invited to submit a proposal no later than **December 31, 2023** by email to [bremen2024@dynamicsdays.eu](mailto:bremen2024@dynamicsdays.eu).
+Prospective minisymposium organizers are invited to submit a proposal by email to [bremen2024@dynamicsdays.eu](mailto:bremen2024@dynamicsdays.eu).
 
 ## How to submit
 
@@ -23,3 +23,5 @@ You should have contacted the listed speakers ahead of your proposal and receive
 * Each talk is 20 min
 * Speakers should not give more than two talks at the conference
 * Proposers should not chair more than one minisymposium
+
+## [List of accepted Minisymposia](Accepted/) as of February 6, 2024
