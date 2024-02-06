@@ -24,4 +24,4 @@ You should have contacted the listed speakers ahead of your proposal and receive
 * Speakers should not give more than two talks at the conference
 * Proposers should not chair more than one minisymposium
 
-## [List of accepted Minisymposia](Accepted/) as of February 6, 2024
+## [List of accepted Minisymposia](../Accepted/) as of February 6, 2024
