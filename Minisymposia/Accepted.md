@@ -453,16 +453,17 @@ to dynamical systems modeling and real-world modeling applications.
 
 #### Organizers:
 
-* [Rahel Vortmeyer-Kley](mailto:rahel.vortmeyer-kley@uni-oldenburg.de), Universität Oldenburg
-* [Pascal Nieters](mailto:pascal.nieters@uni-osnabrueck.de),  Universität Osnabrück
+* [Rahel Vortmeyer-Kley](mailto:rahel.vortmeyer-kley@uni-oldenburg.de), University of Oldenburg
+* [Pascal Nieters](mailto:pascal.nieters@uni-osnabrueck.de),  Osnabrück University
 
 #### Speakers:
 
 * Martin Schultz, Forschungszentrum Jülich
-* Cheyenne Jarman,  Oregon state University
-* Daniel Weinhardt, University of Osnabrück
-* Pascal Nieters, Institute of Cognitive Science / Rahel Vortmeyer-Kley, University of Oldenburg
-* Lukas Stelz, University Frankfurt
+* Cheyenne Jarman,  Oregon State University
+* Daniel Weinhardt, Osnabrück University
+* Pascal Nieters, Osnabrück University / Rahel Vortmeyer-Kley, University of Oldenburg
+* Lukas Stelz, University of Frankfurt
+
 
 ### Adaptive dynamical networks
 
@@ -810,10 +811,10 @@ In this Minisymposium we attempt to take a fresh look on this timely subject. Th
 
 * Alexander Altland (Cologne)
 * Sergej Flach (Daejeon) 
-* Silvia Pappalardi (Cologne)
 * Dario Rosa (Rio de Janeiro)
 * Mathias Steinhuber (Regensburg)
 * Diego Wisniacki (Buenos Aires)
+
 
 ### Modeling, analysis, and control of cardiac dynamics
 
