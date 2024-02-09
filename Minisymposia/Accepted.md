@@ -63,15 +63,15 @@ high-dimensional systems, and multistability in chaotic systems.
 
 #### Speakers:
 
-* Julien Clinton Sprott
-* Alexandre Wagemakers
-* Marc Timme
-* Tomasz Kapitaniak / Marek Balcerzak
-* Alexander Pisarchik
-* Syamal Dana
-* Chris Jones / Katie Slyman
-* Hassan Alkhayuon
+* George Datseris
+* Kalel Rossi
+* Jakob Hiehues
+* Zachary G. Nicolaou
+* Frank Hellmann
 * Ulrike Feudel
+* Frank Kwasniok
+* Alexandre Wagemakers - TBC
+* Hana Krakovska - TBC
 
 ### Analysis and numerics of nonlinear dynamical systems
 
