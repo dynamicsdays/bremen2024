@@ -758,6 +758,7 @@ We tackle this problem on many fronts: with theoretical mathematicians investiga
 * Anton Kutschenko
 * Radomyra Shevchenko
 * Marc Tiofak Kenfack
+* Fabian Bleitner
 * Ivan Ovsyannikov (TBC)
 
 ### Patterns of synchrony in complex networks
