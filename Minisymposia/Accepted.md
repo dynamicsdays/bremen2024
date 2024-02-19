@@ -65,7 +65,7 @@ high-dimensional systems, and multistability in chaotic systems.
 
 * George Datseris
 * Kalel Rossi
-* Jakob Hiehues
+* Jakob Niehues
 * Zachary G. Nicolaou
 * Frank Hellmann
 * Ulrike Feudel
@@ -433,7 +433,7 @@ equations from data on a system’s change over time. These tools
 promise to support classical modeling when precise knowledge of the
 system is lacking, but measurement data of the phenomenon of interest
 is available.
-
+ 
 However, can we always be certain that the learned relationships
 reflect the full dynamics of the underlying system? How accurate are
 predicted future dynamics of the systems? And what are the consequence
@@ -441,7 +441,7 @@ of such hybrid approaches for classical modeling of dynamical systems,
 e.g. in fluid dynamics, population dynamics, ocean, and climate
 modeling? Do we find or lose interactions and dynamics beyond what
 classical modeling provides?
-
+ 
 This minisymposium invites contributions, from all areas of science,
 that apply machine learning to understand relationships between
 dynamic state variables and forecast future dynamic behavior of a
@@ -449,20 +449,21 @@ system from data. We welcome both theoretical and applied work from a
 wide range of scientific disciplines. With this minisymposium, we aim
 to foster an interdisciplinary exchange about advantages and
 disadvantages, limits, and opportunities in applying Machine Learning
-to dynamical systems modeling and real-world modeling applications.
+to dynamical systems modeling and real-world modeling applications. 
 
 #### Organizers:
-
+ 
 * [Rahel Vortmeyer-Kley](mailto:rahel.vortmeyer-kley@uni-oldenburg.de), University of Oldenburg
-* [Pascal Nieters](mailto:pascal.nieters@uni-osnabrueck.de),  Osnabrück University
+* [Pascal Nieters](mailto:pascal.nieters@uni-osnabrueck.de),  Osnabrück University 
 
-#### Speakers:
+#### Speakers: 
 
 * Martin Schultz, Forschungszentrum Jülich
 * Cheyenne Jarman,  Oregon State University
 * Daniel Weinhardt, Osnabrück University
 * Pascal Nieters, Osnabrück University / Rahel Vortmeyer-Kley, University of Oldenburg
 * Lukas Stelz, University of Frankfurt
+* Gianmarco Ducci, Fritz-Haber-Institut Berlin
 
 
 ### Adaptive dynamical networks
@@ -485,6 +486,10 @@ It is a fundamental challenge to understand how the function of a network is rel
 * Kunihiko Kaneko (Københavns Universitet, Niels Bohr Institute, Denmark)
 * Fabrizio Lombardi (Institute of Science and Technology Austria)
 * Thilo Gross (Universität Oldenburg, Germany)
+* Anna Buettner (Potsdam Institute for Climate Impact Research, Germany)
+* Serhiy Yanchuk (University College Cork, Ireland)
+* Erik Martens (Lund University, Sweden)
+
 
 ### Nonlinear dynamics in music perception and production
 
@@ -921,3 +926,24 @@ mechanics or atomic physics.
 * Ferdinand Verhulst, University of Utrecht
 * Holger Waalkens, University of Groningen
 * Lu Xu, University of Jilin (China)
+
+### Geophysical and Fluid Modelling with PDEs
+
+This minisymposium focuses on rigorous analysis of the Euler- and Navier-Stokes equations, with an emphasis on applications in geophysical fluid dynamics.
+
+#### Organizers:
+
+* [Marcel Oliver](mailto:marcel.oliver@ku.de), KU Eichstätt-Ingolstadt
+* [Emil Wiedemann](mailtl:emil.wiedemann@fau.de), FAU Erlangen-Nürnberg
+
+#### Speakers:
+
+* Karoline Disser (Kassel)
+* Bin Cheng (Surrey)
+* Simon Markfelder (Würzburg)
+* Lars Eric Hientzsch (Bielefeld)
+* Andreas Schömer (Mainz)
+* Gerd Lube (Göttingen)
+* David Meyer (Münster)
+* Christian Zillinger (Karlsruhe)
+
