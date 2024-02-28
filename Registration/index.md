@@ -2,7 +2,7 @@
 pagetitle: Registration
 ---
 
-## Registration opens **March 1, 2024** ##
+## Registration opens **March 7, 2024** ##
 
 ## _Tentative_ conference fees
 

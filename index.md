@@ -8,7 +8,19 @@ XLIV Dynamics Days Europe
 Bremen, July 29 - August 2, 2024
 --------------------------------
 
+
+
+
+
 [**Dynamics Days Europe**](https://dynamicsdays.eu/) is a series of major international conferences founded in the 1980's that provides a European forum for developments in the theory and applications of dynamics. For more than 40 years, it has been bringing together researchers from a wide range of backgrounds including physics, mathematics, biology, and engineering for interdisciplinary research in nonlinear science. 
+
+# <span style="color:Tomato;">Scam Alert!!!</span>
+
+Participants associated with the conference have reported receiving email scams regarding conference accommodation.  Please note:
+
+*    We do not work with travel agents
+*    Our registration portal will be hosted by [Converia](https://www.converia.de/en/).  It will open early March and will be announced via the conference mailing lists.  All confenence payments (fees and accommodation) will be processed by Converia.  Do not pass your credit card details to anybody else for conference-related expenses, and only after the opening of the portal has been announced!
+*    Email communication will be sent via [bremen2024@dynamicsdays.eu](mailto:bremen2024@dynamicsdays.eu) or from the local organizers' official university email addresses.
 
 ### Conference Topics
 
@@ -29,7 +41,7 @@ Bremen, July 29 - August 2, 2024
 
 * Early bird [registration](Registration) opens: March 1, 2024
 * Deadline for submitting minisymposium talks, contributed talks, and
-  posters: March 15, 2024
+  posters: March 31, 2024
 * Early bird registration deadline: April 30, 2024
 * Late registration deadline: June 30, 2024
 
