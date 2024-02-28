@@ -39,7 +39,7 @@ Participants associated with the conference have reported receiving email scams 
 
 ### Dates and Deadlines
 
-* Early bird [registration](Registration) opens: March 1, 2024
+* Early bird [registration](Registration) opens: March 7, 2024
 * Deadline for submitting minisymposium talks, contributed talks, and
   posters: March 31, 2024
 * Early bird registration deadline: April 30, 2024
