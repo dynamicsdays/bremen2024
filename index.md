@@ -54,6 +54,9 @@ Participants associated with the conference have reported receiving email scams 
 
 Initial calls for participation will go via both lists, Bremen-specific details only via the second.
 
+### Sponsoring
+Please see our [Sponsoring Flyer](flyer_dynamics_days_2024_sponsoring.pdf).
+
 ### Contact
 
 *    [bremen2024@dynamicsdays.eu](mailto:bremen2024@dynamicsdays.eu)
