@@ -9,17 +9,19 @@ Bremen, July 29 - August 2, 2024
 --------------------------------
 
 
+[**Dynamics Days Europe**](https://dynamicsdays.eu/) is a series of major international conferences founded in the 1980's that provides a European forum for developments in the theory and applications of dynamics. For more than 40 years, it has been bringing together researchers from a wide range of backgrounds including physics, mathematics, biology, and engineering for interdisciplinary research in nonlinear science.
 
+### <span style="color:SeaGreen;"> Registration is now open</span>
 
+* See [detailed instructions and conditions](Registration)
+* Direct link to the [registration web site](https://express.converia.de/frontend/index.php?folder_id=8423) operated by Converia
 
-[**Dynamics Days Europe**](https://dynamicsdays.eu/) is a series of major international conferences founded in the 1980's that provides a European forum for developments in the theory and applications of dynamics. For more than 40 years, it has been bringing together researchers from a wide range of backgrounds including physics, mathematics, biology, and engineering for interdisciplinary research in nonlinear science. 
-
-# <span style="color:Tomato;">Scam Alert!!!</span>
+### <span style="color:Tomato;">Scam Alert!!!</span>
 
 Participants associated with the conference have reported receiving email scams regarding conference accommodation.  Please note:
 
 *    We do not work with travel agents
-*    Our registration portal will be hosted by [Converia](https://www.converia.de/en/).  It will open early March and will be announced via the conference mailing lists.  All confenence payments (fees and accommodation) will be processed by Converia.  Do not pass your credit card details to anybody else for conference-related expenses, and only after the opening of the portal has been announced!
+*    Our registration portal is hosted by [Converia](https://www.converia.de/en/).  All confenence payments (fees and accommodation) are processed by Converia.  Do not pass your credit card details to anybody else for conference-related expenses!
 *    Email communication will be sent via [bremen2024@dynamicsdays.eu](mailto:bremen2024@dynamicsdays.eu) or from the local organizers' official university email addresses.
 
 ### Conference Topics

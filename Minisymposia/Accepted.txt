@@ -468,14 +468,7 @@ to dynamical systems modeling and real-world modeling applications.
 
 ### Adaptive dynamical networks
 
-It is a fundamental challenge to understand how the function of a network is related to its structural organization. Adaptive dynamical networks represent a broad class of systems that can change their connectivity over time depending on their dynamical state. The most important feature of such systems is that their function depends on their structure and vice versa. While the properties of static networks have been extensively investigated in the past, the study of adaptive networks is much more challenging. Moreover, adaptive dynamical networks are of tremendous importance for various application fields, in particular, for the models for neuronal synaptic plasticity, adaptive networks in chemical, epidemic, biological, transport, and social systems, to name a few. This minisymposium provides a platform for dissemination of new results on the theory of adaptive dynamical networks and their applications.
-
-#### Organizers:
-
-* [Christian Kuehn](mailto:ckuehn@ma.tum.de), Technical University of Munich
-* [Jürgen Kurths](mailto:kurths@pik-potsdam.de), Potsdam Institute for Climate Impact Research
-* [Erik Martens](mailto:erik.martens@math.lth.se), Lund University
-* [Serhiy Yanchuk](mailto:syanchuk@ucc.ie), University College Cork
+,](mailto:syanchuk@ucc.ie), University College Cork
 
 #### Speakers:
 
@@ -651,7 +644,7 @@ disease dynamics.
 Turbulence is one of the major challenge of nonlinear science. It does not only play a crucial role for fundamental research but also for many applications. A very timely topic is the use of wind energy, as the energy resource, i.e. strong wind, is by its own nature highly nonlinear and turbulent. In the application one is typically confronted with many aspect of non ideal turbulent conditions. Thus besides the deeply elaborated homogeneous isotropic turbulence questions like nonequilibrium and non stationary turbulence attract more and more interest, as well as the transition to developed turbulence. In particular in the interaction of turbulence and wind energy systems the concepts of nonlinear dynamics become important to handle this complex system.
 
 
-#### Organizer:
+#### Organizers:
 
 * [Joachim Peinke](mailto:joachim.peinke@uni-oldenburg.de) (Carl von Ossietzky University of Oldenburg, Germany)
 * [Raúl Bayoán Cal](mailto:cal@me.pdx.edu) (Portland State University, USA)
@@ -659,7 +652,7 @@ Turbulence is one of the major challenge of nonlinear science. It does not only 
 
 #### Speakers:
 
-* Oliver Buxton. (Imperial College London, England)
+* Oliver Buxton (Imperial College London, England)
 * Raúl Bayoán Cal (Portland State University, USA) 
 * Jan Friedrich (Carl von Ossietzky University of Oldenburg, Germany)
 * Andre Fuchs (Carl von Ossietzky University of Oldenburg, Germany)
@@ -938,12 +931,27 @@ This minisymposium focuses on rigorous analysis of the Euler- and Navier-Stokes 
 
 #### Speakers:
 
-* Karoline Disser (Kassel)
+* Giulia Carigi (L'Aquila)
 * Bin Cheng (Surrey)
 * Simon Markfelder (Würzburg)
+* Karoline Disser (Kassel)
 * Lars Eric Hientzsch (Bielefeld)
-* Andreas Schömer (Mainz)
 * Gerd Lube (Göttingen)
 * David Meyer (Münster)
+* Cecilia Mondaini (Drexel)
+* Andreas Schömer (Mainz)
 * Christian Zillinger (Karlsruhe)
 
+### Holomorphic Dynamics
+
+The theory of discrete holomorphic dynamical systems is the mathematical study of the iteration of holomorphic mappings on complex manifolds. This now-classical subject traces its origins back to the pioneering work of Fatou and Julia in the late 1910s on the iteration of rational maps on the Riemann sphere. The subject gained increased attention in the 1980s, partly due to the emergence of computer-generated images, and has remained very active since then. It has grown into a large area with broad connections to other branches of mathematics, such as algebra, analysis, geometry, measure theory, and number theory. The aim of this minisymposium is to present recent developments on diverse aspects of the subject and to foster collaborative discussions among participants.
+
+#### Organizers:
+
+* [Tanya Firsova](tanyaf@math.ksu.edu) (Kansas State University)
+* [Igors Gorbovickis](igorbovickis@constructor.university) (Constructor University)
+* [Valentin Huguin](valentin.huguin@utoronto.ca) (University of Toronto)
+
+#### Speakers:
+
+TBA
