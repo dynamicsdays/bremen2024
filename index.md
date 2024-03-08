@@ -21,7 +21,7 @@ Bremen, July 29 - August 2, 2024
 Participants associated with the conference have reported receiving email scams regarding conference accommodation.  Please note:
 
 *    We do not work with travel agents
-*    Our registration portal is hosted by [Converia](https://www.converia.de/en/).  All confenence payments (fees and accommodation) are processed by Converia.  Do not pass your credit card details to anybody else for conference-related expenses!
+*    Our registration portal is hosted by [Converia](https://www.converia.de/en/).  All conference payments (fees and accommodation) are processed by Converia.  Do not pass your credit card details to anybody else for conference-related expenses!
 *    Email communication will be sent via [bremen2024@dynamicsdays.eu](mailto:bremen2024@dynamicsdays.eu) or from the local organizers' official university email addresses.
 
 ### Conference Topics
