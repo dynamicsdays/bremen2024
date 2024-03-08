@@ -940,6 +940,7 @@ This minisymposium focuses on rigorous analysis of the Euler- and Navier-Stokes 
 * David Meyer (Münster)
 * Cecilia Mondaini (Drexel)
 * Andreas Schömer (Mainz)
+* Djoko Wirosoetisno (Durham)
 * Christian Zillinger (Karlsruhe)
 
 ### Holomorphic Dynamics
