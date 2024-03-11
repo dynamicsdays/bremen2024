@@ -23,9 +23,10 @@ Young scientists are researchers on a fixed-term, non-tenure-track position.  Th
 * Please join us for a boat trip with conference dinner on Tuesday evening, July 30
 * Dinner tickets can be booked via the [registration system](https://express.converia.de/frontend/index.php?folder_id=8423) at € 50 per person
 
-## Invited speakers
+## Invited plenary and minisymposium speakers
 
 * Please submit your title and abstract via the [paper submission process](https://express.converia.de/frontend/index.php?page_id=37675)
+* Submission of abstracts is appreciated by March 31
 
 ## Contributed Talks and Posters
 
