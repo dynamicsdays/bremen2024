@@ -106,6 +106,7 @@ This session will focus on the analysis and numerical computations of nonlinear 
 * Justin Cole, University of Colorado at Colorado Springs
 * Haralambos Skokos, University of Cape Town
 * Jutta Kunz, University of Oldenburg (Tentative)
+* Fahad Al Saadi, Bristol University
 
 ### Vegetation pattern formation
 
@@ -468,7 +469,14 @@ to dynamical systems modeling and real-world modeling applications.
 
 ### Adaptive dynamical networks
 
-,](mailto:syanchuk@ucc.ie), University College Cork
+It is a fundamental challenge to understand how the function of a network is related to its structural organization. Adaptive dynamical networks represent a broad class of systems that can change their connectivity over time depending on their dynamical state. The most important feature of such systems is that their function depends on their structure and vice versa. While the properties of static networks have been extensively investigated in the past, the study of adaptive networks is much more challenging. Moreover, adaptive dynamical networks are of tremendous importance for various application fields, in particular, for the models for neuronal synaptic plasticity, adaptive networks in chemical, epidemic, biological, transport, and social systems, to name a few. This minisymposium provides a platform for dissemination of new results on the theory of adaptive dynamical networks and their applications.
+
+#### Organizers:
+
+* [Christian Kuehn](mailto:ckuehn@ma.tum.de), Technical University of Munich
+* [Jürgen Kurths](mailto:kurths@pik-potsdam.de), Potsdam Institute for Climate Impact Research
+* [Erik Martens](mailto:erik.martens@math.lth.se), Lund University
+* [Serhiy Yanchuk](mailto:syanchuk@ucc.ie), University College Cork
 
 #### Speakers:
 
@@ -813,6 +821,7 @@ In this Minisymposium we attempt to take a fresh look on this timely subject. Th
 * Dario Rosa (Rio de Janeiro)
 * Mathias Steinhuber (Regensburg)
 * Diego Wisniacki (Buenos Aires)
+* Lea Santos (Connecticut)
 
 
 ### Modeling, analysis, and control of cardiac dynamics
