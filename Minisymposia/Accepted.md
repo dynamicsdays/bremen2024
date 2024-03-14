@@ -131,6 +131,7 @@ The aim of the proposed mini-symposium is to present recent advances and challen
 * David Pinto, Helmholtz-Zentrum Dresden-Rossendorf 
 * Joydeep Singha,  Ben-Gurion University
 * Michel Ferré, Ben-Gurion University
+* Christian Guill, University of Potsdam
 
 ### Dimensional reduction of chaotic dynamics
 
