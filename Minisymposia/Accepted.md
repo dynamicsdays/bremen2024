@@ -718,6 +718,7 @@ This minisymposium is devoted to such problems as mixing, ergodicity, and existe
 *    N.N.
 *    Tommaso Rosati (Uni Warwick)
 *    Milo Viviani (Scuola Normale Superiore Pisa)
+*    Marco Bagnara (Scuola Normale Superiore)
 
 ### Reaction networks
 
