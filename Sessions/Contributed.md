@@ -13,7 +13,7 @@ pagetitle: Contributed Sessions
 - Fluid Dynamics and PDEs
 - Numerical Methods
 - Dynamics in Neuroscience and Physiology
-- Mathematical Physics
+- Mathematical and Theoretical Physics
 
 # Also see list of [minisymposia](../Minisymposia)
 
