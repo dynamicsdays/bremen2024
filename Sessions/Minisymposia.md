@@ -107,6 +107,7 @@ This session will focus on the analysis and numerical computations of nonlinear 
 * Haralambos Skokos, University of Cape Town
 * Jutta Kunz, University of Oldenburg (Tentative)
 * Fahad Al Saadi, Bristol University
+* Vladimir Konotop, University of Lisbon
 
 ### Vegetation pattern formation
 
@@ -176,7 +177,7 @@ object of the remaining proposed reports.
 * Joshua Pughe-Sanford, Georgia Institute of Technology
 * Francesco Sorrentino, University of New Mexico
 * Yueheng Lan, Beijing University of Posts and Telecommunications
-* Martin Richter, University of Nottingham
+* David Chappell, Nottingham Trent University
 * Nazmi Burak Budanur, Max Planck Institute for the Physics of Complex Systems, Dresden
 * Evangelos Siminos, Advanced Analytics Europe, Gothenburg, Sweden
 * Juan-Alvaro Gallego, Imperial College
@@ -646,7 +647,14 @@ disease dynamics.
 
 #### Speakers:
 
-* 4 Speakers (TBA)
+* Olusegun Ekundayo Adebayo, University of Franche-Comté
+* Hayriye Gülbudak, University of Louisiana at Lafayette
+* Cameron J. Browne, University of Louisiana at Lafayette
+* Burcu Gürbüz, Johannes Gutenberg-University Mainz
+* Géza Ódor, HUN-REN Centre for Energy Research
+* Bootan Rahman, University of Kurdistan Hewlêr
+* Nicola Vassena, Leipzig University 
+
 
 ### Turbulence, nonequilibrium,  and wind energy
 
