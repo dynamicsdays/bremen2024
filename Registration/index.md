@@ -11,6 +11,7 @@ pagetitle: Registration
 * Regular registration: € 240 (early bird), € 280 (late registration)
 * Young scientists: € 200 (early bird), € 220 (late registration)
 * Student participants:  € 100 (early bird), € 120 (late registration)
+* Early bird registration deadline: April 30, 2024
 
 Young scientists are researchers on a fixed-term, non-tenure-track position.  The conference fee includes:
 
@@ -55,6 +56,7 @@ A very limited number of travel support and participation grants are available. 
 *    PhD candidates
 *    Recent PhDs (no more than 5 years after receiving the PhD at the time of the conference)
 *    Scientists on permanent employment contracts are not eligible
+*    Application deadline: March 31, 2024
 
 Applications for financial support are also to be submitted via the [paper submission process](https://express.converia.de/frontend/index.php?page_id=37675).  Applicants for financial support are expected to submit a scientific contribution to the conference as a second "paper". **While waiting for the funding decision, please do not pay the conference fee because a full refund is not possible.** In case your application is not granted, you will be given a voucher code that you can use to register at the "early bird" rate at a later time.  
 
