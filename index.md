@@ -15,6 +15,7 @@ Bremen, July 29 - August 2, 2024
 
 * See [detailed instructions and conditions](Registration)
 * Direct link to the [registration web site](https://express.converia.de/frontend/index.php?folder_id=8423) operated by Converia
+* **Upcoming deadline for contributed talks, posters, and financial support: March 31, 2024**
 
 ### <span style="color:Tomato;">Scam Alert!!!</span>
 

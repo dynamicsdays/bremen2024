@@ -12,6 +12,7 @@ pagetitle: Registration
 * Young scientists: € 200 (early bird), € 220 (late registration)
 * Student participants:  € 100 (early bird), € 120 (late registration)
 * Early bird registration deadline: April 30, 2024
+* Late registration deadline: June 30, 2024
 
 Young scientists are researchers on a fixed-term, non-tenure-track position.  The conference fee includes:
 
