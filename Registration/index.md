@@ -47,7 +47,7 @@ Young scientists are researchers on a fixed-term, non-tenure-track position.  Th
 ## Meals
 
 * Meals are _not_ included in the conference fee and accommodation packages
-* Breakfast, lunch, and dinner is available in the university cafeteria at reasonable prices
+* Breakfast, lunch, and dinner is available in the [university canteens at reasonable prices](https://wonderl.ink/@scolarest)
 * The cafeterias do not accept cash - Please pay by credit card or use mobile payment systems!
 
 ## Financial support
