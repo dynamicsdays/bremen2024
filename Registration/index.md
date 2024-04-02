@@ -33,8 +33,8 @@ Young scientists are researchers on a fixed-term, non-tenure-track position.  Th
 ## Contributed Talks and Posters
 
 * Contributed talks and posters can be proposed via the [paper submission process](https://express.converia.de/frontend/index.php?page_id=37675)
-* Deadline for submission is March 31
-* Proposals will be reviewed and decided upon by April 15
+* Deadline for submission is March 31, 2024.  Late submission of poster contributions until April 30, 2024
+* Proposals for contributed talks will be reviewed and decided upon by April 15
 * As the number of speaker slots is limited, please be prepared to be asked to present a poster if you propose a contributed talk
 
 ## Accommodation

@@ -15,15 +15,9 @@ Bremen, July 29 - August 2, 2024
 
 * See [detailed instructions and conditions](Registration)
 * Direct link to the [registration web site](https://express.converia.de/frontend/index.php?folder_id=8423) operated by Converia
-* **Upcoming deadline for contributed talks, posters, and financial support: March 31, 2024**
-
-### <span style="color:Tomato;">Scam Alert!!!</span>
-
-Participants associated with the conference have reported receiving email scams regarding conference accommodation.  Please note:
-
-*    We do not work with travel agents
-*    Our registration portal is hosted by [Converia](https://www.converia.de/en/).  All conference payments (fees and accommodation) are processed by Converia.  Do not pass your credit card details to anybody else for conference-related expenses!
-*    Email communication will be sent via [bremen2024@dynamicsdays.eu](mailto:bremen2024@dynamicsdays.eu) or from the local organizers' official university email addresses.
+* Any other offers for accomodation are not by us <span style="color:Tomato;">and may be a scam</span>!
+* **Upcoming early bird registration deadline: April 30, 2024**
+* **Late submission deadline for minisymposium abstracts and contributed posters: April 30, 2024**
 
 ### Conference Topics
 
@@ -42,10 +36,8 @@ Participants associated with the conference have reported receiving email scams 
 
 ### Dates and Deadlines
 
-* Early bird [registration](Registration) opens: March 7, 2024
-* Deadline for submitting abstracts for minisymposium talks, contributed talks, and
-  posters: March 31, 2024
-* Deadline for applications for finanical support (early career researchers only): March 31, 2024
+* Deadline for submitting abstracts for minisymposium talks and
+  posters: April 30, 2024
 * Early bird registration deadline: April 30, 2024
 * Late registration deadline: June 30, 2024
 
