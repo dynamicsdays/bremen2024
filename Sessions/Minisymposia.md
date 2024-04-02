@@ -124,7 +124,7 @@ The aim of the proposed mini-symposium is to present recent advances and challen
 
 #### Speakers:
 
-* Annalisa Iuorio, Parthenope University of Naples
+* Frits Veerman, University of Leiden
 * Lukas Eigentler, University of Warwick 
 * Ricardo Martínez-García, Helmholtz-Zentrum Dresden-Rossendorf 
 * Yuval Zelnik, Swedish University of Agricultural Sciences 
@@ -220,6 +220,7 @@ At the same time, effectively combining observations with dynamical models for t
 * Cristina Urbani, University of Rome, Tor Vergata and Universitas Mercatorum
 * Wilhelm Stannnat, Technical University of Berlin
 * Eviatar Bach, California Institute of Technology
+* Jochen Broecker, University of Reading
 
 ### Cyclic dynamical systems
 
@@ -649,6 +650,7 @@ disease dynamics.
 
 * Olusegun Ekundayo Adebayo, University of Franche-Comté
 * Hayriye Gülbudak, University of Louisiana at Lafayette
+* Thomas Götz, University of Koblenz
 * Cameron J. Browne, University of Louisiana at Lafayette
 * Burcu Gürbüz, Johannes Gutenberg-University Mainz
 * Géza Ódor, HUN-REN Centre for Energy Research
