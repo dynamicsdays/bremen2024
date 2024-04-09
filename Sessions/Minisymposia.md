@@ -127,7 +127,7 @@ The aim of the proposed mini-symposium is to present recent advances and challen
 * Frits Veerman, University of Leiden
 * Lukas Eigentler, University of Warwick 
 * Ricardo Martínez-García, Helmholtz-Zentrum Dresden-Rossendorf 
-* Yuval Zelnik, Swedish University of Agricultural Sciences 
+* Karin Mora, Leipzig University
 * Damia Gomila, IFISC 
 * David Pinto, Helmholtz-Zentrum Dresden-Rossendorf 
 * Joydeep Singha,  Ben-Gurion University
