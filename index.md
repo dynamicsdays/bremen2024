@@ -57,6 +57,7 @@ We gratefully acknowledge financial support from
   <img style="width: 25%;float: center;" src="Heraeus.svg" alt="" title="Wilhelm and Else Heraeus Foundation" />
 
 * The DFG (German Research Foundation)
+  
   <img style="width: 50%;float: center;" src="DFG.gif" alt="" title="DFG" />
 
 * The Wolfgang-Ritter Foundation
