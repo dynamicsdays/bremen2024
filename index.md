@@ -51,15 +51,17 @@ Initial calls for participation will go via both lists, Bremen-specific details 
 ### Sponsoring
 
 We gratefully acknowledge financial support from
+
 * The Wilhelm and Else Heraeus Foundation
- <img style="width: 25%;float: center;" src="Heraeus.svg" alt="" title="Wilhelm and Else Heraeus Foundation" />
+  
+  <img style="width: 25%;float: center;" src="Heraeus.svg" alt="" title="Wilhelm and Else Heraeus Foundation" />
 
 * The DFG (German Research Foundation)
-  <img style="float: center;" src="DFG.gif" alt="" title="DFG" />
+  <img style="width: 50%;float: center;" src="DFG.gif" alt="" title="DFG" />
 
 * The Wolfgang-Ritter Foundation
 
-Please see our [Sponsoring Flyer](flyer_dynamics_days_2024_sponsoring.pdf) for sponsorship opportunities.
+For sponsors: Please see our [Sponsoring Flyer](flyer_dynamics_days_2024_sponsoring.pdf) for more information.
 
 ### Contact
 
