@@ -49,7 +49,17 @@ Bremen, July 29 - August 2, 2024
 Initial calls for participation will go via both lists, Bremen-specific details only via the second.
 
 ### Sponsoring
-Please see our [Sponsoring Flyer](flyer_dynamics_days_2024_sponsoring.pdf).
+
+We gratefully acknowledge financial support from
+* The Wilhelm and Else Heraeus Foundation
+ <img style="width: 25%;float: center;" src="Heraeus.svg" alt="" title="Wilhelm and Else Heraeus Foundation" />
+
+* The DFG (German Research Foundation)
+  <img style="float: center;" src="DFG.gif" alt="" title="DFG" />
+
+* The Wolfgang-Ritter Foundation
+
+Please see our [Sponsoring Flyer](flyer_dynamics_days_2024_sponsoring.pdf) for sponsorship opportunities.
 
 ### Contact
 
