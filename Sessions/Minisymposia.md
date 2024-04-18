@@ -174,7 +174,7 @@ object of the remaining proposed reports.
 
 #### Speakers:
 
-* Joshua Pughe-Sanford, Georgia Institute of Technology
+* Sam Quinn, Georgia Institute of Technology
 * Francesco Sorrentino, University of New Mexico
 * Yueheng Lan, Beijing University of Posts and Telecommunications
 * David Chappell, Nottingham Trent University
