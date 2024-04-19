@@ -64,7 +64,7 @@ We gratefully acknowledge financial support from
 
 * [Springer](https://www.springer.com/de)
   
-  <img style="width: 20%;float: center;" src="springer.svg" alt="" title="Springer" />
+  <img style="width: 25%;float: center;" src="springer.svg" alt="" title="Springer" />
 
 For sponsors: Please see our [Sponsoring Flyer](flyer_dynamics_days_2024_sponsoring.pdf) for more information.
 
