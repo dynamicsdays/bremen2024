@@ -833,6 +833,7 @@ In this Minisymposium we attempt to take a fresh look on this timely subject. Th
 * Mathias Steinhuber (Regensburg)
 * Diego Wisniacki (Buenos Aires)
 * Lea Santos (Connecticut)
+* Pieter Claeys (Dresden) 
 
 
 ### Modeling, analysis, and control of cardiac dynamics
