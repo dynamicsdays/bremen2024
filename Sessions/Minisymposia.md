@@ -814,7 +814,7 @@ units, and the mathematical methods used to analyze these phenomena.
 * Oliver Cattell (University of Nottingham, UK)
 
 
-### Quantum simulation and computation at the edge of chaos
+x[### Quantum simulation and computation at the edge of chaos
 
 The goal of medium-to-large scale quantum computation, a stage when the number of entangled qubits reaches quantum advantage where quantum processors are more efficient than classical computers, opens a broad spectrum of new challenges. These range from technological issues related to the preparation, protection and manipulation of highly entangled many-body states, to the need to improve computational algorithms that solve actual practical problems.
 
@@ -880,7 +880,7 @@ Dynamics and Self-Organization Göttingen  and DZHK
 * Inga Kottlarz, University Medical Center Göttingen and DZHK
 * Martina Nicoletti, University of Rome “Campus Bio-Medico”
 * Thomas Lilienkamp, Nuremberg Institute of Technology Georg Simon Ohm
-* Alessandro Loppini, University of Rome “Campus Bio-Medico”
+* Anna Crispino, University of Rome “Campus Bio-Medico”
 * Niels Otani, Rochester Institute of Technology, NY
 * Nour Raad, Technical University of Munich
 * Daniel Suth, Nuremberg Institute of Technology Georg Simon Ohm
