@@ -807,7 +807,11 @@ units, and the mathematical methods used to analyze these phenomena.
 * Arkady Pikovsky (University of Potsdam, Germany)
 * Johanne Hizanidis (University of Crete, Heraklion, Greece)
 * Matthias Wolfrum (Weierstrass Institute, Berlin, Germany)
-
+* Seungjae Lee (TU Dresden, Germany)
+* Erik Mau (University of Potsdam, Germany)
+* Rachel Nicks (University of Nottingham, UK)
+* Nicolas Thome (Technical University of Munich, Germany)
+* Oliver Cattell (University of Nottingham, UK)
 
 
 ### Quantum simulation and computation at the edge of chaos
