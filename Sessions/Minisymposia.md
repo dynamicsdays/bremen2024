@@ -973,9 +973,9 @@ The theory of discrete holomorphic dynamical systems is the mathematical study o
 
 #### Organizers:
 
-* [Tanya Firsova](tanyaf@math.ksu.edu) (Kansas State University)
-* [Igors Gorbovickis](igorbovickis@constructor.university) (Constructor University)
-* [Valentin Huguin](valentin.huguin@utoronto.ca) (University of Toronto)
+* [Tanya Firsova](mailto:tanyaf@math.ksu.edu) (Kansas State University)
+* [Igors Gorbovickis](mailto:igorbovickis@constructor.university) (Constructor University)
+* [Valentin Huguin](mailto:valentin.huguin@utoronto.ca) (University of Toronto)
 
 #### Speakers:
 
