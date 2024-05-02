@@ -979,4 +979,8 @@ The theory of discrete holomorphic dynamical systems is the mathematical study o
 
 #### Speakers:
 
-TBA
+* Jordi Canela (Universitat Jaume I)
+* Valentin Huguin (University of Toronto)
+* Pascale Roesch (Université Paul Sabatier)
+* Matteo Tabaro (Constructor University)
+* Johan Taflin (Université de Bourgogne)
