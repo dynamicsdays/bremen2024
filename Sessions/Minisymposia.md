@@ -197,10 +197,9 @@ The purpose of this minisymposium is to address several aspects of such collecti
 #### Speakers:
 
 * Camille Poignard, Université d'Orléans
-* Matteo Tanzi, Université Paris Cité
-* Maximilian Engel, Freie Universität Berlin or Guillermo Olicon, Freie Universität Berlin and Universität Potsdam
+* Matteo Tanzi, King's College London
+* Guillermo Olicon, Freie Universität Berlin and Universität Potsdam
 * Bhumika Thakur, HBNI, Bhat, India, or George L Johnston, EduTron Corporation,  Winchester, MA
-* Otti D'Huys, University of Würzburg or Thomas Jüngling, Universitat de les Illes Balears
 
 ### Stability, long term behaviour, and data assimilation in infinite dimensional stochastic systems for weather, climate, and ocean
 
