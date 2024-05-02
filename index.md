@@ -52,19 +52,29 @@ Initial calls for participation will go via both lists, Bremen-specific details 
 
 We gratefully acknowledge financial support from
 
-* [Wilhelm and Else Heraeus Foundation](https://www.we-heraeus-stiftung.de/english/)
-  
-  <img style="width: 25%;float: center;" src="Heraeus.svg" alt="" title="Wilhelm and Else Heraeus Foundation" />
-
 * [DFG (German Research Foundation)](https://www.dfg.de/en)
   
-  <img style="width: 50%;float: center;" src="DFG.gif" alt="" title="DFG" />
-
-* Wolfgang-Ritter Foundation
+  <a href="https://www.dfg.de/en"><img style="width: 60%;float: center;" src="DFG.gif" alt="" title="DFG" /></a>
 
 * [Springer](https://www.springer.com/de)
   
-  <img style="width: 25%;float: center;" src="springer.svg" alt="" title="Springer" />
+  <a href="https://www.springer.com/de"><img style="width: 25%;float: center;" src="springer.svg" alt="" title="Springer" /></a>
+
+* [Wilhelm and Else Heraeus Foundation](https://www.we-heraeus-stiftung.de/english/)
+  
+  <a href="https://www.we-heraeus-stiftung.de/english/"><img style="width: 30%;float: center;" src="Heraeus.svg" alt="" title="Wilhelm and Else Heraeus Foundation" /></a>
+
+* Wolfgang-Ritter Foundation
+
+The poster awards are sponsored by AIP's journals
+
+* [Chaos](https://pubs.aip.org/aip/cha?utm_source=SPONSORSHIP&utm_medium=logo&utm_campaign=CHA_DYNAMIC_DAYS_EUROPE_2024&utm_id=CHA_DYNAMIC_DAYS_EUROPE_2024)
+  
+  <a href="https://pubs.aip.org/aip/cha?utm_source=SPONSORSHIP&utm_medium=logo&utm_campaign=CHA_DYNAMIC_DAYS_EUROPE_2024&utm_id=CHA_DYNAMIC_DAYS_EUROPE_2024"><img style="width: 20%;float: center;" src="cha-cmyk.jpg" alt="" title="Chaos" /></a>
+
+* [Journal of Mathematical Physics](https://pubs.aip.org/aip/jmp?utm_source=SPONSORSHIP&utm_medium=logo&utm_campaign=JMP_DYNAMIC_DAYS_EUROPE_2024&utm_id=JMP_DYNAMIC_DAYS_EUROPE_2024)
+  
+  <a href="https://pubs.aip.org/aip/jmp?utm_source=SPONSORSHIP&utm_medium=logo&utm_campaign=JMP_DYNAMIC_DAYS_EUROPE_2024&utm_id=JMP_DYNAMIC_DAYS_EUROPE_2024"><img style="width: 35%;float: center;" src="jmp-cmyk.jpg" alt="" title="JMP" /></a>
 
 For sponsors: Please see our [Sponsoring Flyer](flyer_dynamics_days_2024_sponsoring.pdf) for more information.
 
