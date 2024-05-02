@@ -540,7 +540,7 @@ power grids and ways to analyze and improve their stability.
 #### Speakers:
 
 * Pere Colet (Instituto de Fsica Interdisciplinar y Sistemas Complejos, IFISC (CSIC-UIB), Palma, Spain)
-* Robin Delabays (Institute HES-SO, Switzerland) 
+* Jim Délitroz (Institute HES-SO, Switzerland) 
 * Heetae Kim (Department of Energy Engineering, Korea Institute
 of Energy Technology) 
 * Timo Broehl (University of Bonn, Germany) 
@@ -549,7 +549,7 @@ of Energy Technology)
 * Simona Olmi (Institute for Complex Systems - CNR, Italy) 
 * Kathrin Schmitendorf (Center for Nonlinear Science, Münster, Germany)
 * Eckehard Schöll (Institut für Theoretische Physik, Technische Universität Berlin, Germany) 
-* Frieder Bönisch (TBC) (Technische Universität Dresden, Germany)
+* Seungjae Lee (Technische Universität Dresden, Germany)
 * Tobias Ohlinger (Fraunhofer Institute for Algorithms and Scientific Computing (SCAI))
 * Christian Nauck (Potsdam Institute for Climate Impact Research)
 * Qiong Huang (Karlsruhe Institute of Technology)
@@ -951,7 +951,7 @@ This minisymposium focuses on rigorous analysis of the Euler- and Navier-Stokes 
 #### Organizers:
 
 * [Marcel Oliver](mailto:marcel.oliver@ku.de), KU Eichstätt-Ingolstadt
-* [Emil Wiedemann](mailtl:emil.wiedemann@fau.de), FAU Erlangen-Nürnberg
+* [Emil Wiedemann](mailto:emil.wiedemann@fau.de), FAU Erlangen-Nürnberg
 
 #### Speakers:
 
