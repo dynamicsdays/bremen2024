@@ -801,19 +801,19 @@ units, and the mathematical methods used to analyze these phenomena.
 
 #### Speakers:
 
-* Carlo Laing (Massey University, Auckland, New Zealand)
-* Oleh Omelchenko (University of Potsdam, Germany)
 * Arkady Pikovsky (University of Potsdam, Germany)
-* Johanne Hizanidis (University of Crete, Heraklion, Greece)
 * Matthias Wolfrum (Weierstrass Institute, Berlin, Germany)
 * Seungjae Lee (TU Dresden, Germany)
 * Erik Mau (University of Potsdam, Germany)
-* Rachel Nicks (University of Nottingham, UK)
 * Nicolas Thome (Technical University of Munich, Germany)
+* Carlo Laing (Massey University, Auckland, New Zealand)
+* Johanne Hizanidis (University of Crete, Heraklion, Greece)
+* Rachel Nicks (University of Nottingham, UK)
 * Oliver Cattell (University of Nottingham, UK)
+* Oleh Omelchenko (University of Potsdam, Germany)
 
 
-x[### Quantum simulation and computation at the edge of chaos
+### Quantum simulation and computation at the edge of chaos
 
 The goal of medium-to-large scale quantum computation, a stage when the number of entangled qubits reaches quantum advantage where quantum processors are more efficient than classical computers, opens a broad spectrum of new challenges. These range from technological issues related to the preparation, protection and manipulation of highly entangled many-body states, to the need to improve computational algorithms that solve actual practical problems.
 
