@@ -547,7 +547,6 @@ of Energy Technology)
 * Yuri Maistrenko (Potsdam Institute for Climate Impact Research, Germany)
 * Géza Ódor (Institute of Technical Physics and Materials Science, Budapest, Hungary) 
 * Simona Olmi (Institute for Complex Systems - CNR, Italy) 
-* Kathrin Schmitendorf (Center for Nonlinear Science, Münster, Germany)
 * Eckehard Schöll (Institut für Theoretische Physik, Technische Universität Berlin, Germany) 
 * Seungjae Lee (Technische Universität Dresden, Germany)
 * Tobias Ohlinger (Fraunhofer Institute for Algorithms and Scientific Computing (SCAI))
@@ -598,8 +597,7 @@ Research, Germany)
 * Plamen Ivanov (Department of Physics, Boston University, USA)
 * Yong Xu (School of Mathematics and Statistics, Northwestern
 Polytechnical University, Xi’an, China)
-* Theo Geisel (Max Planck Institute for Dynamics and Self-Organization,
-Göttingen, Germany)
+* Pau Clusella (Universitat Politècnica de Catalunya)
 * Erik Martens (Centre for Mathematical Sciences, Lund University, Sweden)
 
 
