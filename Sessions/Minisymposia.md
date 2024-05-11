@@ -101,7 +101,6 @@ This session will focus on the analysis and numerical computations of nonlinear 
 * Edgar Knobloch, UC Berkeley
 * Takashi Sakajo, Kyoto University 
 * Ivan Christov, Purdue University (Tentative)
-* Carlo Barenghi, Newcastle University
 * Darryl Holm, Imperial College London (online)
 * Justin Cole, University of Colorado at Colorado Springs
 * Haralambos Skokos, University of Cape Town
@@ -830,9 +829,7 @@ In this Minisymposium we attempt to take a fresh look on this timely subject. Th
 
 * Alexander Altland (Cologne)
 * Sergej Flach (Daejeon) 
-* Dario Rosa (Rio de Janeiro)
 * Mathias Steinhuber (Regensburg)
-* Diego Wisniacki (Buenos Aires)
 * Lea Santos (Connecticut)
 * Pieter Claeys (Dresden) 
 
