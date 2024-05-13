@@ -177,7 +177,7 @@ object of the remaining proposed reports.
 * Francesco Sorrentino, University of New Mexico
 * Yueheng Lan, Beijing University of Posts and Telecommunications
 * David Chappell, Nottingham Trent University
-* Nazmi Burak Budanur, Max Planck Institute for the Physics of Complex Systems, Dresden
+* Misha Chai, Max Planck Institute for the Physics of Complex Systems, Dresden
 * Evangelos Siminos, Advanced Analytics Europe, Gothenburg, Sweden
 * Juan-Alvaro Gallego, Imperial College
 * Domenico Lippolis, Jiangsu University, China
@@ -551,6 +551,7 @@ of Energy Technology)
 * Tobias Ohlinger (Fraunhofer Institute for Algorithms and Scientific Computing (SCAI))
 * Christian Nauck (Potsdam Institute for Climate Impact Research)
 * Qiong Huang (Karlsruhe Institute of Technology)
+* Alessandro Torcini (CY Cergy Paris University)
 
 
 ### Nonequilibrium phase transitions and critical collective behavior in networks
@@ -892,11 +893,12 @@ The dynamics of the atmosphere, the ocean and the climate system as a whole are 
 
 #### Speakers:
 
-* Mickael Chekroun
-* Frank Kwasniok
-* Oliver Mehling
-* Francesco Ragone
-* Stephane Vannitsem
+* Joe Clarke, University of Exeter, UK
+* Frank Kwasniok, University of Exeter, UK
+* Oliver Mehling, Politecnico di Torino, Italy
+* Francesco Ragone, Universite Catholique de Louvain, Belgium
+* Stephane Vannitsem, Royal Meteorological Institute of Belgium
+* Mark Williamson, University of Exeter, UK
 
 
 ### Stability and Bifurcations of Hamiltonian Systems. Theory and Applications
