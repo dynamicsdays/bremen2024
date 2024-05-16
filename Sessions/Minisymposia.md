@@ -319,6 +319,7 @@ Speakers:
 * Yu Huang (TUM, Germany)
 * Stephan Juricke (GEOMAR, Germany)
 * Christian Franzke (ICCP, Korea)
+* Jens Rademacher (Hamburg, Germany)
 
 ### Realization of connection structures in phase space
 
