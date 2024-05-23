@@ -504,13 +504,14 @@ Recent advances in networked physiology and brain dynamics in music perception a
 
 #### Speakers:
 
-* Eckehard Schöll
-* Jakub Sawicki
+* Eckehard Schöll/Jakub Sawicki
 * Markus Abel
 * Jost Fischer
 * Simon Linke
 * Lenz Hartmann
 * Rolf Bader
+* Naomi Nordblom
+* Cristhiam Martinez
 
 ### Dynamics in energy systems - from analytics to machine learning
 
@@ -704,7 +705,6 @@ ecosystems and the climate system are impacted by the climate crisis.
 * Aneta Koseska (Max-Planck-Institute for Neurobiology of Behavior, Bonn, Germany)
 * Syamal Dana (Jadavpur University Kolkata, India)
 * Ying-Cheng Lai (Arizona State University, Tempe, USA)
-* Everton Medeiros (University Oldenburg, Germany)
 * Paul Ritchie (University Exeter, UK)
 * Martin Rasmussen (Imperial College London, UK)
 * Johannes Lohmann (Nils Bohr Institute Copenhagen, Denmark)
