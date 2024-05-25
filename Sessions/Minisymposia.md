@@ -27,7 +27,7 @@ Speakers:
 
 * Michale Small, The University of Western Australia
 * Thomas Stemler, The University of Western Australia
-* Kelly C. Iarsoz, Centro Universitário UNIFATEB, Brazil
+* Kelly C. Iarosz, Centro Universitário UNIFATEB, Brazil
 * Inmaculada Leyva, Universidad Rey Juan Carlos
 * Elbert E. N. Macau, Federal University of São Paulo
 
@@ -71,7 +71,7 @@ high-dimensional systems, and multistability in chaotic systems.
 * Ulrike Feudel
 * Frank Kwasniok
 * Alexandre Wagemakers - TBC
-* Hana Krakovska - TBC
+* Hana Krakovska
 
 ### Analysis and numerics of nonlinear dynamical systems
 
@@ -208,7 +208,7 @@ At the same time, effectively combining observations with dynamical models for t
 
 #### Organisers:
 
-* [Jochen Broecker](mailto:j.broecker@reading.ac.uk), University of Reading
+* [Jochen Bröcker](mailto:j.broecker@reading.ac.uk), University of Reading
 * [Tobias Kuna](mailto:tobias.kuna@univaq.it), University of L'Aquila, Italy and University of Reading
 
 #### Speakers:
@@ -218,7 +218,7 @@ At the same time, effectively combining observations with dynamical models for t
 * Cristina Urbani, University of Rome, Tor Vergata and Universitas Mercatorum
 * Wilhelm Stannnat, Technical University of Berlin
 * Eviatar Bach, California Institute of Technology
-* Jochen Broecker, University of Reading
+* Jochen Bröcker, University of Reading
 
 ### Cyclic dynamical systems
 
@@ -409,14 +409,7 @@ room.
 * Giulia Marcucci, University of Glasgow
 * André Röhm, University of Tokyo
 * Dan Gauthier, Ohio State University
-* N.N.
 
-
-#### Potential backup speakers:
-
-* Ling-Wei Kong, Cornell University (available online)
-* Serhiy Yanchuk, University College Cork (already involved in another
-  MS but happy to speak if needed)
 
 ### Lost and found: Searching for underlying dynamical relations in data using Machine Learning
 
@@ -489,7 +482,7 @@ It is a fundamental challenge to understand how the function of a network is rel
 * Kunihiko Kaneko (Københavns Universitet, Niels Bohr Institute, Denmark)
 * Fabrizio Lombardi (Institute of Science and Technology Austria)
 * Thilo Gross (Universität Oldenburg, Germany)
-* Anna Buettner (Potsdam Institute for Climate Impact Research, Germany)
+* Anna Büttner (Potsdam Institute for Climate Impact Research, Germany)
 * Serhiy Yanchuk (University College Cork, Ireland)
 * Erik Martens (Lund University, Sweden)
 
@@ -544,8 +537,8 @@ power grids and ways to analyze and improve their stability.
 * Jim Délitroz (Institute HES-SO, Switzerland) 
 * Heetae Kim (Department of Energy Engineering, Korea Institute
 of Energy Technology) 
-* Timo Broehl (University of Bonn, Germany) 
-* Yuri Maistrenko (Potsdam Institute for Climate Impact Research, Germany)
+* Timo Bröhl (University of Bonn, Germany) 
+* Yuriy Maistrenko (Potsdam Institute for Climate Impact Research, Germany)
 * Géza Ódor (Institute of Technical Physics and Materials Science, Budapest, Hungary) 
 * Simona Olmi (Institute for Complex Systems - CNR, Italy) 
 * Eckehard Schöll (Institut für Theoretische Physik, Technische Universität Berlin, Germany) 
@@ -553,7 +546,6 @@ of Energy Technology)
 * Tobias Ohlinger (Fraunhofer Institute for Algorithms and Scientific Computing (SCAI))
 * Christian Nauck (Potsdam Institute for Climate Impact Research)
 * Qiong Huang (Karlsruhe Institute of Technology)
-* Alessandro Torcini (CY Cergy Paris University)
 
 
 ### Nonequilibrium phase transitions and critical collective behavior in networks
@@ -583,8 +575,6 @@ in neuroscience, power grids, social networks, etc.
 * Igor Franović (Center for the Study of Complex Systems Institute
 of Physics Belgrade, University of Belgrade, Serbia)
 * Andreas Amann (University College Cork, Ireland)
-* Astero Provata (National Center for Scientific Research “Demokri-
-tos”, Agia Paraskevi, Greece)
 * Inmaculada Leyva (Complex Systems Group & GISC - Universidad Rey Juan Carlos, Spain)
 * Jaroslav Hlinka (Institute of Computer Science, Czech Academy
 of Sciences, Prague, Czech Republic)
@@ -601,6 +591,7 @@ Research, Germany)
 Polytechnical University, Xi’an, China)
 * Pau Clusella (Universitat Politècnica de Catalunya)
 * Erik Martens (Centre for Mathematical Sciences, Lund University, Sweden)
+* Alessandro Torcini (CY Cergy Paris University)
 
 
 ### Synchronization, pattern formation and symmetries in distributed dynamical systems
@@ -680,8 +671,6 @@ Turbulence is one of the major challenge of nonlinear science. It does not only 
 * Ingrid Neunaber (NTNU, Troneheim Norwegen)
 * Martin Obligado (École Centrale de Lille, Fance)
 * Michael Wilczek (University of Bayreuth, Germany)
-* N.N.
-* N.N. 
 
 ### Non-autonomous dynamics in complex systems: theory and applications to biological, ecological, and climate systems
 
@@ -770,11 +759,10 @@ We tackle this problem on many fronts: with theoretical mathematicians investiga
 * Roland Welter
 * Yanmichel Morfa Avalos
 * Julia Dräger-Dietel
-* Anton Kutschenko
+* Anton Kutsenko
 * Radomyra Shevchenko
 * Marc Tiofak Kenfack
-* Fabian Bleitner
-* Ivan Ovsyannikov (TBC)
+* Ivan Ovsyannikov
 
 ### Patterns of synchrony in complex networks
 
@@ -868,7 +856,7 @@ Dynamics and Self-Organization Göttingen  and DZHK
 
 
 * Marcel Aron, MPI for Dynamics and Self-Organization Göttingen and DZHK
-* Markus Baer, Physikalisch-Technische Bundesanstalt, Berlin, Germany
+* Markus Bär, Physikalisch-Technische Bundesanstalt, Berlin, Germany
 * Omer Berenfeld, University of Michigan, Ann Arbor, MI
 * Tim de Coster, Leiden University Medical Center
 * Julia Erhardt, University of Stuttgart
@@ -933,7 +921,7 @@ mechanics or atomic physics.
 #### Speakers:
 
 * Martha Alvarez, Universidad Autónoma Metropolitana, Campus Iztapalapa (Mexico)
-* Gabriele Benedetti, Heidelberg University (TBC)
+* Gabriele Benedetti, Heidelberg University
 * Víctor Lanchares, Universidad de La Rioja
 * Nikolay Martynchuk, University of Groningen 
 * Óscar Rodríguez, Universidad Politècnica de Catalunya
