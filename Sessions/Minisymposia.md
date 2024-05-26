@@ -233,7 +233,7 @@ At the same time, effectively combining observations with dynamical models for t
 
 * Erwin Frey, Ludwig Maximilian University, Munich
 * Hildegard Meyer-Ortmanns, Constructor University, Bremen
-* Alexander Nepomnyashchy, Technion, Haifa
+* Idan Sorin, Technion, Haifa
 * Uwe C. Tauber, Virginia Tech, Blacksburg, VA
 * Todd Young, Ohio University, Athens, OH
 
@@ -546,7 +546,8 @@ of Energy Technology)
 * Tobias Ohlinger (Fraunhofer Institute for Algorithms and Scientific Computing (SCAI))
 * Christian Nauck (Potsdam Institute for Climate Impact Research)
 * Qiong Huang (Karlsruhe Institute of Technology)
-
+* Juan E. Machado (Brandenburg University of Technology)
+* Leonardo Rydin Gorjão (Norwegian University of Life Sciences)
 
 ### Nonequilibrium phase transitions and critical collective behavior in networks
 
@@ -735,12 +736,11 @@ Unfortunately, there is still a limited cross-disciplinary exchange among resear
 * Bernold Fiedler (Free University of Berlin)
 * Josef Hofbauer (University of Vienna)
 * Nidhi Kaihnsa (University of Copenhagen)
-* Edda Klipp (Humboldt University of Berlin) (TBC)
 * Wei-Hsiang Lin (Academia Sinica, Taiwan)
 * Maya Mincheva (Northern Illinois University, USA)
 * Stefan Müller (University of Vienna)
 * Casian Pantea (West Virginia University, USA)
-* Hamid Rahkooy (University of Oxford, UK) (TBC)
+* Hamid Rahkooy (University of Oxford, UK) 
 
 
 
@@ -952,6 +952,7 @@ This minisymposium focuses on rigorous analysis of the Euler- and Navier-Stokes 
 * Andreas Schömer (Mainz)
 * Djoko Wirosoetisno (Durham)
 * Christian Zillinger (Karlsruhe)
+* Paul Holst (Hamburg)
 
 ### Holomorphic Dynamics
 
@@ -970,3 +971,4 @@ The theory of discrete holomorphic dynamical systems is the mathematical study o
 * Pascale Roesch (Université Paul Sabatier)
 * Matteo Tabaro (Constructor University)
 * Johan Taflin (Université de Bourgogne)
+* Kostiantyn Drach (Universitat de Barcelona)
