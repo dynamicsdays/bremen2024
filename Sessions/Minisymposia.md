@@ -70,7 +70,6 @@ high-dimensional systems, and multistability in chaotic systems.
 * Frank Hellmann
 * Ulrike Feudel
 * Frank Kwasniok
-* Alexandre Wagemakers - TBC
 * Hana Krakovska
 
 ### Analysis and numerics of nonlinear dynamical systems
@@ -104,7 +103,7 @@ This session will focus on the analysis and numerical computations of nonlinear 
 * Darryl Holm, Imperial College London (online)
 * Justin Cole, University of Colorado at Colorado Springs
 * Haralambos Skokos, University of Cape Town
-* Jutta Kunz, University of Oldenburg (Tentative)
+* Jutta Kunz, University of Oldenburg 
 * Fahad Al Saadi, Bristol University
 * Vladimir Konotop, University of Lisbon
 
@@ -398,17 +397,18 @@ room.
 
 #### Speakers:
 
-* Andrew Flynn, University College Cork
-* Christoph Räth, German Aerospace Center (DLR)
-* Kathy Lüdge, Ilmenau University of Technology
-* Ying-Cheng Lai, Arizona State University
-* Miguel C. Soriano, IFISC, Spain
 * Lou Pecora, University of Maryland
-* Kohei Nakajima, University of Tokyo
+* Luk Fleddermann, Max Planck Institute for Dynamics and Self-Organization Göttingen 
 * Jason Z. Kim, Cornell University
-* Giulia Marcucci, University of Glasgow
+* Andrew Flynn, University College Cork
+* Ying-Cheng Lai, Arizona State University
 * André Röhm, University of Tokyo
 * Dan Gauthier, Ohio State University
+* Christoph Räth, German Aerospace Center (DLR)
+* Miguel C. Soriano, IFISC, Spain
+* Kohei Nakajima, University of Tokyo
+* Kathy Lüdge, Ilmenau University of Technology
+* Giulia Marcucci, University of Glasgow
 
 
 ### Lost and found: Searching for underlying dynamical relations in data using Machine Learning
@@ -499,7 +499,6 @@ Recent advances in networked physiology and brain dynamics in music perception a
 
 * Eckehard Schöll/Jakub Sawicki
 * Markus Abel
-* Jost Fischer
 * Simon Linke
 * Lenz Hartmann
 * Rolf Bader
@@ -644,7 +643,7 @@ disease dynamics.
 * Thomas Götz, University of Koblenz
 * Cameron J. Browne, University of Louisiana at Lafayette
 * Burcu Gürbüz, Johannes Gutenberg-University Mainz
-* Géza Ódor, HUN-REN Centre for Energy Research
+* Shengfeng Deng/Géza Ódor, HUN-REN Centre for Energy Research
 * Bootan Rahman, University of Kurdistan Hewlêr
 * Nicola Vassena, Leipzig University 
 
@@ -672,6 +671,8 @@ Turbulence is one of the major challenge of nonlinear science. It does not only 
 * Ingrid Neunaber (NTNU, Troneheim Norwegen)
 * Martin Obligado (École Centrale de Lille, Fance)
 * Michael Wilczek (University of Bayreuth, Germany)
+* Matthias Wächter (Carl von Ossietzky University of Oldenburg, Germany)
+* Konstantinos Steiros (Imperial College, London)
 
 ### Non-autonomous dynamics in complex systems: theory and applications to biological, ecological, and climate systems
 
@@ -792,7 +793,7 @@ units, and the mathematical methods used to analyze these phenomena.
 * Matthias Wolfrum (Weierstrass Institute, Berlin, Germany)
 * Seungjae Lee (TU Dresden, Germany)
 * Erik Mau (University of Potsdam, Germany)
-* Nicolas Thome (Technical University of Munich, Germany)
+* Nicolas Thomé (Technical University of Munich, Germany)
 * Carlo Laing (Massey University, Auckland, New Zealand)
 * Johanne Hizanidis (University of Crete, Heraklion, Greece)
 * Rachel Nicks (University of Nottingham, UK)
@@ -865,7 +866,7 @@ Dynamics and Self-Organization Göttingen  and DZHK
 * Martina Nicoletti, University of Rome “Campus Bio-Medico”
 * Thomas Lilienkamp, Nuremberg Institute of Technology Georg Simon Ohm
 * Anna Crispino, University of Rome “Campus Bio-Medico”
-* Niels Otani, Rochester Institute of Technology, NY
+* Rhiannan Ruef/Niels Otani, Rochester Institute of Technology, NY
 * Nour Raad, Technical University of Munich
 * Daniel Suth, Nuremberg Institute of Technology Georg Simon Ohm
 * Marta Varela, Imperial College, London
@@ -925,7 +926,7 @@ mechanics or atomic physics.
 * Víctor Lanchares, Universidad de La Rioja
 * Nikolay Martynchuk, University of Groningen 
 * Óscar Rodríguez, Universidad Politècnica de Catalunya
-* J. Pablo Salas, Universidad de La Rioja (TBC)
+* Valery Gaiko, National Academy of Sciences of Belarus
 * Ferdinand Verhulst, University of Utrecht
 * Holger Waalkens, University of Groningen
 * Lu Xu, University of Jilin (China)
