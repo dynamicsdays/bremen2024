@@ -11,6 +11,13 @@ Bremen, July 29 - August 2, 2024
 
 [**Dynamics Days Europe**](https://dynamicsdays.eu/) is a series of major international conferences founded in the 1980's that provides a European forum for developments in the theory and applications of dynamics. For more than 40 years, it has been bringing together researchers from a wide range of backgrounds including physics, mathematics, biology, and engineering for interdisciplinary research in nonlinear science.
 
+### <span style="color:Tomato;">Scam alert!</span>
+
+* Once again, conference speakers are receiving scam emails from nefarious third parties
+* All system-generated mail regarding bookings and abstract submissions is sent through our service provider Converia
+* Mail from local organizers is sent via [bremen2024@dynamicsdays.eu](mailto:bremen2024@dynamicsdays.eu) or via official university email accounts
+* All other mail pretending to pertain to this conference is likely spam or scam, if in doubt, ask us!
+
 ### <span style="color:SeaGreen;"> Registration is now open</span>
 
 * See [detailed instructions and conditions](Registration)
