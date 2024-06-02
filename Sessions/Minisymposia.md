@@ -94,7 +94,6 @@ This session will focus on the analysis and numerical computations of nonlinear 
 * Avadh Saxena, Los Alamos National Laboratory
 * Stathis Charalampidis, Cal Poly San Luis Obispo 
 * Sergej Flach,  Institute for Basic Science Daejeon
-* Amin Chabchoub, The University of Sydney 
 * Niurka R. Quintero, Universidad Carlos III de Madrid 
 * Igor Barashenkov, University of Cape Town
 * Edgar Knobloch, UC Berkeley
@@ -181,23 +180,6 @@ object of the remaining proposed reports.
 * Juan-Alvaro Gallego, Imperial College
 * Domenico Lippolis, Jiangsu University, China
 
-### Non-structurally-induced collective (or akin to collective) behaviours in dynamical systems
-
-The emergence of collective dynamical behaviours is a crucial topic for the understanding of the global evolution of systems, a task necessary to building predictable, controllable and robust ones, and finding efficient healthcare strategies. From power grids and laser dynamics to Parkinson and epidemic spreading, we are confronted in our everyday life to the difficulty of this task.
-In many cases, the specific global behaviour of a given system is due to its underlying graph structure, but it is well-known now that the structure is not the only factor responsible of the global dynamics:
-other factors can play a major role in its emergence, such as a particular coupling term, a noise, a delay term, etc., giving rise for instance to noise-induced stability or collective orders, and delay-induced clustering, among other phenomena.
-The purpose of this minisymposium is to address several aspects of such collective (or akin to collective) behaviours of dynamical systems which are not, or not only, structurally induced.
-
-#### Organizer:
-
-* [Camille Poignard](mailto:camille.poignard@univ-orleans.fr), Université d'Orléans
-
-#### Speakers:
-
-* Camille Poignard, Université d'Orléans
-* Matteo Tanzi, King's College London
-* Guillermo Olicon, Freie Universität Berlin and Universität Potsdam
-* Bhumika Thakur, HBNI, Bhat, India, or George L Johnston, EduTron Corporation,  Winchester, MA
 
 ### Stability, long term behaviour, and data assimilation in infinite dimensional stochastic systems for weather, climate, and ocean
 
