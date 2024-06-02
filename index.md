@@ -11,20 +11,19 @@ Bremen, July 29 - August 2, 2024
 
 [**Dynamics Days Europe**](https://dynamicsdays.eu/) is a series of major international conferences founded in the 1980's that provides a European forum for developments in the theory and applications of dynamics. For more than 40 years, it has been bringing together researchers from a wide range of backgrounds including physics, mathematics, biology, and engineering for interdisciplinary research in nonlinear science.
 
+### <span style="color:SeaGreen;">Conference Schedule now available!</span>
+
+* [Program overview](Sessions/Time_Slots_Final.pdf)
+* [Detailed schedule (tentative)](https://express.converia.de/frontend/index.php?page_id=37679)
+* [Instructions and conditions for registration](Registration)
+* Direct link to the [registration web site](https://express.converia.de/frontend/index.php?folder_id=8423) operated by Converia
+
 ### <span style="color:Tomato;">Scam alert!</span>
 
 * Once again, conference speakers are receiving scam emails from nefarious third parties
 * All system-generated mail regarding bookings and abstract submissions is sent through our service provider Converia
 * Mail from local organizers is sent via [bremen2024@dynamicsdays.eu](mailto:bremen2024@dynamicsdays.eu) or via official university email accounts
 * All other mail pretending to pertain to this conference is likely spam or scam, if in doubt, ask us!
-
-### <span style="color:SeaGreen;"> Registration is now open</span>
-
-* See [detailed instructions and conditions](Registration)
-* Direct link to the [registration web site](https://express.converia.de/frontend/index.php?folder_id=8423) operated by Converia
-* Any other offers for accomodation are not by us <span style="color:Tomato;">and may be a scam</span>!
-* **Upcoming early bird registration deadline: April 30, 2024**
-* **Late submission deadline for minisymposium abstracts and contributed posters: April 30, 2024**
 
 ### Conference Topics
 
@@ -43,12 +42,12 @@ Bremen, July 29 - August 2, 2024
 
 ### Dates and Deadlines
 
-* Deadline for submitting abstracts for minisymposium talks and
-  posters: April 30, 2024
-* Early bird registration deadline: April 30, 2024
+* Submission for contributed talks is closed
+* Please submit late minisymposium speaker abstracts as soon as possible
+* Late poster contribution submission is still open
 * Late registration deadline: June 30, 2024
 
-### Stay informed
+### Stay Informed
 
 *    Subscribe to the general [Dynamics Days Europe mailing list](https://onsager.ugr.es/mailman3/mailman3/lists/dynamics_days.onsager.ugr.es/)
 *    Subscribe to the [Bremen 2024 mailing list](https://mailman.zfn.uni-bremen.de/cgi-bin/mailman/listinfo/ddays2024bremen)
