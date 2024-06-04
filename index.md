@@ -72,7 +72,7 @@ We gratefully acknowledge financial support from
 
 * Wolfgang-Ritter Foundation
 
-The poster awards are sponsored by AIP's journals
+The four poster awards are sponsored by AIP's journals
 
 * [Chaos](https://pubs.aip.org/aip/cha?utm_source=SPONSORSHIP&utm_medium=logo&utm_campaign=CHA_DYNAMIC_DAYS_EUROPE_2024&utm_id=CHA_DYNAMIC_DAYS_EUROPE_2024)
   
@@ -81,6 +81,12 @@ The poster awards are sponsored by AIP's journals
 * [Journal of Mathematical Physics](https://pubs.aip.org/aip/jmp?utm_source=SPONSORSHIP&utm_medium=logo&utm_campaign=JMP_DYNAMIC_DAYS_EUROPE_2024&utm_id=JMP_DYNAMIC_DAYS_EUROPE_2024)
   
   <a href="https://pubs.aip.org/aip/jmp?utm_source=SPONSORSHIP&utm_medium=logo&utm_campaign=JMP_DYNAMIC_DAYS_EUROPE_2024&utm_id=JMP_DYNAMIC_DAYS_EUROPE_2024"><img style="width: 35%;float: center;" src="jmp-cmyk.jpg" alt="" title="JMP" /></a>
+
+An additional book voucher poster award is sponsored by
+
+* [Cambridge University Press](https://www.cambridge.org/)
+  
+  <a href="https://www.cambridge.org/"><img style="width: 20%;float: center;" src="CUP.svg" alt="" title="Cambridge University Press" /></a>
 
 For sponsors: Please see our [Sponsoring Flyer](flyer_dynamics_days_2024_sponsoring.pdf) for more information.
 
