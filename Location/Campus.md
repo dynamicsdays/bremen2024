@@ -17,13 +17,13 @@ ergodic theory.
 
 ### Constructor University Campus Center
 
-<img style="width: 80%;float: center;" src="campuscenter.jpeg" alt="" title="Campus Center" />
+<img style="width: 80%;float: center;" src="../campuscenter.jpeg" alt="" title="Campus Center" />
 
 
 
 ### College Building
 
-<img style="width: 80%;float: center;" src="college_nordmetall.jpg" alt="" title="College Nordmetall" />
+<img style="width: 80%;float: center;" src="../college_nordmetall.jpg" alt="" title="College Nordmetall" />
 
 ### Bremen City Hall – A UNESCO World Heritage Site
 

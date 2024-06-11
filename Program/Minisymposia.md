@@ -625,7 +625,7 @@ disease dynamics.
 * Thomas Götz, University of Koblenz
 * Cameron J. Browne, University of Louisiana at Lafayette
 * Burcu Gürbüz, Johannes Gutenberg-University Mainz
-* Shengfeng Deng/Géza Ódor, HUN-REN Centre for Energy Research
+* Shengfeng Deng, HUN-REN Centre for Energy Research
 * Bootan Rahman, University of Kurdistan Hewlêr
 * Nicola Vassena, Leipzig University 
 
