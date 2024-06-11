@@ -13,7 +13,7 @@ Bremen, July 29 - August 2, 2024
 
 ### <span style="color:SeaGreen;">Conference Schedule now available!</span>
 
-* [Program overview](Sessions/Time_Slots_Final.pdf)
+* [Program overview](Program/Time_Slots_Final.pdf)
 * [Detailed schedule (tentative)](https://express.converia.de/frontend/index.php?page_id=37679)
 * [Instructions and conditions for registration](Registration)
 * Direct link to the [registration web site](https://express.converia.de/frontend/index.php?folder_id=8423) operated by Converia
