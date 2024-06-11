@@ -9,11 +9,11 @@
 * From Bremen-Vegesack, take the Bus 94 in the direction of Marßel. Get off at Seefahrtstraße, walk a few steps forward and turn left on Bruno-Bürgel-Straße. After about 300 meters you will reach the Constructor University main gate.
 * [Arrival map](https://constructor.university/sites/default/files/2023-08/CUB_directions.pdf)
 * [Campus map](https://constructor.university/sites/default/files/2023-04/CU_Campus_Map_EN_2022_02.pdf)
-* [Goole maps route planner](https://www.google.de/maps/dir//Constructor+University,+Campus+Ring+1,+28759+Bremen/@53.1670277,8.4868288,11z/data=!4m8!4m7!1m0!1m5!1m1!1s0x47b12ca1e7c06c65:0x903fa1786c3fd4e9!2m2!1d8.6516237!2d53.1670277?hl=en&entry=ttu)
+* [Google maps route planner](https://www.google.de/maps/dir//Constructor+University,+Campus+Ring+1,+28759+Bremen/@53.1670277,8.4868288,11z/data=!4m8!4m7!1m0!1m5!1m1!1s0x47b12ca1e7c06c65:0x903fa1786c3fd4e9!2m2!1d8.6516237!2d53.1670277?hl=en&entry=ttu)
 
 ### Public transport tickets
 
-* If you stay on campus, the most economic way is to buy separate one-way tickets (€ 3.00 each) or a book of four one-way tickets (€ 11,20)
+* If you stay on campus, the most economic way is to buy separate one-way tickets (€ 3.00 each) or a book of four one-way tickets (€ 11,20).  Note that individual tickets are time-stamped when you buy them.  Tickets from a book of four need to be time-stamped - for the RS1 on the station platform, for trams and buses also on board.
 * If you stay off-campus, you might want to get a one-week pass (€ 25,40)
 * Ticket machines are located at the airport tram station, all railway stations, and on board of the trams
 * Select Tariff Zone 1 ("Preisstufe I")
