@@ -383,7 +383,6 @@ room.
 * Luk Fleddermann, Max Planck Institute for Dynamics and Self-Organization Göttingen 
 * Jason Z. Kim, Cornell University
 * Andrew Flynn, University College Cork
-* Ying-Cheng Lai, Arizona State University
 * André Röhm, University of Tokyo
 * Dan Gauthier, Ohio State University
 * Christoph Räth, German Aerospace Center (DLR)
@@ -677,7 +676,6 @@ ecosystems and the climate system are impacted by the climate crisis.
 * Klaus Lehnertz (University Bonn, Germany)
 * Aneta Koseska (Max-Planck-Institute for Neurobiology of Behavior, Bonn, Germany)
 * Syamal Dana (Jadavpur University Kolkata, India)
-* Ying-Cheng Lai (Arizona State University, Tempe, USA)
 * Paul Ritchie (University Exeter, UK)
 * Martin Rasmussen (Imperial College London, UK)
 * Johannes Lohmann (Nils Bohr Institute Copenhagen, Denmark)
@@ -912,6 +910,8 @@ mechanics or atomic physics.
 * Ferdinand Verhulst, University of Utrecht
 * Holger Waalkens, University of Groningen
 * Lu Xu, University of Jilin (China)
+* Patricia Yanguas, Universidad Pública de Navarra (Spain)
+
 
 ### Geophysical and Fluid Modelling with PDEs
 
