@@ -96,4 +96,4 @@ For sponsors: Please see our [Sponsoring Flyer](flyer_dynamics_days_2024_sponsor
 
 <br>
 
-<img style="width: 100%;float: center;" src="Bremen2024_small.jpg" alt="" title="Dynamics Days Europe, Bremen 2024" />
+<img style="width: 100%;float: center;" src="DynamicsDaysPoster.pdf" alt="" title="Dynamics Days Europe, Bremen 2024" />
