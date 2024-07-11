@@ -3,9 +3,9 @@
 
 ### Directions
 
-* From Bremen Airport take Tram 6 to Bremen Hauptbahnhof (central railway station)
-* From Bremen Hauptbahnhof take suburban railway line RS1 in the direction of Bremen-Vegesack or Bremen-Farge
-* Get off the train at Bremen-Schönebeck station, walk up the stairs, cross the bridge and keep following Bruno-Bürgel-Straße for about 5 min until you reach the Constructor University main gate
+* From Bremen Airport take Tram 6 to Bremen Hauptbahnhof (central railway station).
+* The commuter railway line RS1 which connects the conference site with the city center has been closed for track repairs on rather short notice for the entire time period of the conference. There is a bus replacement service, see [here](https://download.transdev.de/transdev/uploads/nwb/schedule/1505227/rs-1-22-06-bis-04-08-2024-ersatzfahrplan.pdf) for the schedule.
+* From the bus stop, keep following Bruno-Bürgel-Straße for about 5 min until you reach the Constructor University main gate.
 * From Bremen-Vegesack, take the Bus 94 in the direction of Marßel. Get off at Seefahrtstraße, walk a few steps forward and turn left on Bruno-Bürgel-Straße. After about 300 meters you will reach the Constructor University main gate.
 * [Arrival map](https://constructor.university/sites/default/files/2023-08/CUB_directions.pdf)
 * [Campus map](https://constructor.university/sites/default/files/2023-04/CU_Campus_Map_EN_2022_02.pdf)
