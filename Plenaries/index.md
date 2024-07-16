@@ -1,7 +1,6 @@
 % Confirmed plenary speakers
 
 - [Viviane Baladi](http://baladi.perso.math.cnrs.fr/), Sorbonne Université
-- [Dani S. Bassett](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/danielle-bassett), University of Pennsylvania & Santa Fe Institute
 - [Antje Boetius](https://www.awi.de/ueber-uns/organisation/mitarbeiter/detailseite/antje-boetius.html), Alfred Wegener Institute for Polar and Marine Research, Bremerhaven
 - [Dimitris Giannakis](https://giannakis.host.dartmouth.edu/), Dartmouth College
 - [Martin Hairer](https://www.hairer.org/), EPFL and Imperial College
