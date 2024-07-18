@@ -88,7 +88,6 @@ This session will focus on the analysis and numerical computations of nonlinear 
 * Hannes Uecker, University of Oldenburg
 * Yakov Shnir, Bogoliubov Laboratory of Theoretical Physics 
 * Laurette Tuckerman, Sorbonne Université 
-* Konstantinos Makris, University of Crete
 * Mihalis Kavousanakis, National Technical University of Athens
 * Keith Promislow, Michigan State University
 * Avadh Saxena, Los Alamos National Laboratory
@@ -98,7 +97,7 @@ This session will focus on the analysis and numerical computations of nonlinear 
 * Igor Barashenkov, University of Cape Town
 * Edgar Knobloch, UC Berkeley
 * Takashi Sakajo, Kyoto University 
-* Ivan Christov, Purdue University (Tentative)
+* Ivan Christov, Purdue University 
 * Darryl Holm, Imperial College London (online)
 * Justin Cole, University of Colorado at Colorado Springs
 * Haralambos Skokos, University of Cape Town
