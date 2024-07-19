@@ -1,11 +1,15 @@
 % Arrival information
 
 
-### Directions
+### Directions from Bremen Airport via Bremen central railway station
 
 * From Bremen Airport take Tram 6 to Bremen Hauptbahnhof (central railway station).
-* The commuter railway line RS1 which connects the conference site with the city center has been closed for track repairs on short notice for the entire time period of the conference. There is a bus replacement service ([schedule here](https://download.transdev.de/transdev/uploads/nwb/schedule/1505227/rs-1-22-06-bis-04-08-2024-ersatzfahrplan.pdf)) which departs from Bus Bay J in front of the station, right next to the tram stop.
+* The commuter railway line RS1 which connects the conference site with the city center has been closed for track repairs on short notice for the entire time period of the conference. There is a bus replacement service ([schedule here](https://download.transdev.de/transdev/uploads/nwb/schedule/1505227/rs-1-22-06-bis-04-08-2024-ersatzfahrplan.pdf)) which departs from Bus Bay R hidden between the Best Western Hotel and the Cinemaxx.  
 * Get off at Bremen-Schönebeck station, cross the railway line, and follow Bruno-Bürgel-Straße for about 5 min until you reach the Constructor University main gate.
+* Alternatively, take the RS2 and get off at Bremen-Burg (first stop).  From Bremen-Burg you can still catch the replacement bus, marked SEV in the direction of Vegesack/Farge, or catch the 94 bus and get off at Taunusstraße where there is a back entrance to campus (needs a key, but it's very likely there will be staff/students getting off the same bus, too).
+
+### Directions from Bremen Vegesack
+
 * From Bremen-Vegesack, take the Bus 94 in the direction of Marßel. Get off at Seefahrtstraße, walk a few steps forward and turn left on Bruno-Bürgel-Straße. After about 300 meters you will reach the Constructor University main gate.
 * [Arrival map](https://constructor.university/sites/default/files/2023-08/CUB_directions.pdf)
 * [Campus map](https://constructor.university/sites/default/files/2023-04/CU_Campus_Map_EN_2022_02.pdf)
