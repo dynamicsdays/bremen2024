@@ -564,8 +564,6 @@ Sweden)
 of Bremen, Germany)
 * Jakub Sawicki (Potsdam Institute for Climate Impact Research,
 Germany)
-* Fakhteh Ghanbarnejad (Potsdam Institute for Climate Impact
-Research, Germany)
 * Plamen Ivanov (Department of Physics, Boston University, USA)
 * Yong Xu (School of Mathematics and Statistics, Northwestern
 Polytechnical University, Xi’an, China)
