@@ -6,7 +6,7 @@
 * [Arrival map](https://constructor.university/sites/default/files/2023-08/CUB_directions.pdf)
 * [Campus map](https://constructor.university/sites/default/files/2023-04/CU_Campus_Map_EN_2022_02.pdf)
 * [Google maps route planner](https://www.google.de/maps/dir//Constructor+University,+Campus+Ring+1,+28759+Bremen/@53.1670277,8.4868288,11z/data=!4m8!4m7!1m0!1m5!1m1!1s0x47b12ca1e7c06c65:0x903fa1786c3fd4e9!2m2!1d8.6516237!2d53.1670277?hl=en&entry=ttu)
-* [Deutsche Bahn public transport info](https://int.bahn.de/en/).
+* [Deutsche Bahn public transport info](https://int.bahn.de/en/)
 
 ### Directions from Bremen central railway station to Constructor University
 
