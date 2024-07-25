@@ -552,8 +552,6 @@ in neuroscience, power grids, social networks, etc.
 
 * Serhiy Yanchuk (University College Cork, Ireland)
 * Mehrnaz Anvari (Fraunhofer Institute for Algorithms and Scientific Computing, Sankt Augustin, Germany)
-* Igor Franović (Center for the Study of Complex Systems Institute
-of Physics Belgrade, University of Belgrade, Serbia)
 * Andreas Amann (University College Cork, Ireland)
 * Inmaculada Leyva (Complex Systems Group & GISC - Universidad Rey Juan Carlos, Spain)
 * Jaroslav Hlinka (Institute of Computer Science, Czech Academy
@@ -619,7 +617,6 @@ disease dynamics.
 * Olusegun Ekundayo Adebayo, University of Franche-Comté
 * Hayriye Gülbudak, University of Louisiana at Lafayette
 * Thomas Götz, University of Koblenz
-* Cameron J. Browne, University of Louisiana at Lafayette
 * Burcu Gürbüz, Johannes Gutenberg-University Mainz
 * Shengfeng Deng, HUN-REN Centre for Energy Research
 * Bootan Rahman, University of Kurdistan Hewlêr
