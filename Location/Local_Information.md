@@ -37,7 +37,7 @@ The following is included in the conference fee:
 
 #### Food on campus
 
-* The cafeterias in College 3 and Nordmetall College (marked "Restaurant" on the [campus map](campus-map-ddays.pdf)) are open 
+* The cafeterias in College 3 and Nordmetall College (marked "Restaurant" on the [campus map](../campus-map-ddays.pdf)) are open 
 
     - 7:00-10:00 (breakfast)
     - 11:00-14:30 (lunch)
