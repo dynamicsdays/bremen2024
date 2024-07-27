@@ -15,6 +15,7 @@ Bremen, July 29 - August 2, 2024
 
 * [Program overview](Program/Time_Slots_Final.pdf)
 * [Detailed schedule (tentative)](https://express.converia.de/frontend/index.php?page_id=37679)
+* [List of all contributions](Program/Contributions/)
 * <span style="color:SeaGreen;">Updated [local information](Location/Local_Information) now available!</span>
 
 
