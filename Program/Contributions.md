@@ -2640,7 +2640,7 @@ Quantum computers challenged by many-body chaos
     <input type="hidden" name="v" value="List">
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
-    <input type="hidden" name="q" value="Implementing quantum neural state methods to study "chaotic melting" in Bose-Hubbard systems">
+    <input type="hidden" name="q" value="Implementing quantum neural state methods to study">
     <input type="submit" value="Mathias Steinhuber"> </form>
 Implementing quantum neural state methods to study "chaotic melting" in Bose-Hubbard systems
   ~ Univerity of Regensburg
@@ -4542,23 +4542,11 @@ Does an intermittent dynamical system remain chaotic after drilling in a hole?
     <input type="hidden" name="v" value="List">
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
-    <input type="hidden" name="q" value="Ghost of polarized state enables single-cell navigation in dynamic environment">
-    <input type="submit" value="Akhilesh Padmanabhan Nandan"> </form>
-Ghost of polarized state enables single-cell navigation in dynamic environment
-  ~ Max Planck institute for neurobiology of behavior - caesar
-  ~ Monday, July 29, 11:30-12:00, IRC Seminar Room 2
-
-<form class="form-horizontal" name="schedule_search"
-    method="POST" action="https://express.converia.de/frontend/index.php">
-    <input type="hidden" name="page_id" value="37679">
-    <input type="hidden" name="v" value="List">
-    <input type="hidden" name="day" value="all">
-    <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Non-autonomous standard nontwist map">
     <input type="submit" value="Marcos Vinicius de Moraes"> </form>
 Non-autonomous standard nontwist map
   ~ Universidade de São Paulo (USP)
-  ~ Monday, July 29, 12:00-12:30, IRC Seminar Room 2
+  ~ Monday, July 29, 11:30-12:00, IRC Seminar Room 2
 
 #### Session on Nonlinear Dynamics and Waves
 <form class="form-horizontal" name="schedule_search"
@@ -4920,7 +4908,7 @@ A numerical method for measuring dynamical phase transitions in time series
     <input type="submit" value="Gianluca Fabiani"> </form>
 Slow Invariant Manifolds for Singularly Perturbed systems of ODEs and in general Slow-Fast Dynamical Systems via Physics-Informed Neural Networks 
   ~ Scuola Superiore Meridionale
-  ~ Wednesday, July 31, 11:00-11:30, SCC Conference Hall
+  ~ Wednesday, July 31, 11:00-11:30, IRC Seminar Room 3
 
 <form class="form-horizontal" name="schedule_search"
     method="POST" action="https://express.converia.de/frontend/index.php">
@@ -4932,7 +4920,7 @@ Slow Invariant Manifolds for Singularly Perturbed systems of ODEs and in general
     <input type="submit" value="Raul de Palma Aristides"> </form>
 Inferring the connectivity of coupled oscillators from event timing analysis
   ~ Pompeu Fabra University (UPF)
-  ~ Wednesday, July 31, 11:30-12:00, SCC Conference Hall
+  ~ Wednesday, July 31, 11:30-12:00, IRC Seminar Room 3
 
 <form class="form-horizontal" name="schedule_search"
     method="POST" action="https://express.converia.de/frontend/index.php">
@@ -4944,7 +4932,7 @@ Inferring the connectivity of coupled oscillators from event timing analysis
     <input type="submit" value="André Farinha Bósio"> </form>
 A morphological approach to Poincaré sections to identify anomalous transport
   ~ Universidade de São Paulo (USP)
-  ~ Wednesday, July 31, 12:00-12:30, SCC Conference Hall
+  ~ Wednesday, July 31, 12:00-12:30, IRC Seminar Room 3
 
 ## Posters
 <form class="form-horizontal" name="schedule_search"
