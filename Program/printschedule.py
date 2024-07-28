@@ -25,7 +25,10 @@ day = {"29" : "Monday, July 29",
        "02" : "Friday, August 2"}
 
 def write_name(c):
-    name = c[20] + " " + c[21]
+    i = 20
+    while not int(c[i+10]):
+        i += 13    
+    name = c[i] + " " + c[i+1]
     title = c[13].lstrip()
     f.writelines(f'''<form class="form-horizontal" name="schedule_search"
     method="POST" action="https://express.converia.de/frontend/index.php">

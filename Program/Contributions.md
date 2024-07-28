@@ -218,7 +218,7 @@ Modeling tumor disease and sepsis in physiological networks
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Dynamics of adaptive networks with Hebbian and Anti-Hebbian plasticity">
-    <input type="submit" value="David Fox"> </form>
+    <input type="submit" value="Andreas Amann"> </form>
 Dynamics of adaptive networks with Hebbian and Anti-Hebbian plasticity
   ~ Thursday, August 1, 15:00-15:30, Research II Lecture Hall
 
@@ -410,7 +410,7 @@ Stability of solitons in the parametrically driven and damped nonlinear Dirac eq
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="A very complicated route for wavelength change in vertical convection">
-    <input type="submit" value="Zheng Zheng"> </form>
+    <input type="submit" value="Laurette Tuckerman"> </form>
 A very complicated route for wavelength change in vertical convection
   ~ École Polytechnique Fédérale de Lausanne (EPFL)
   ~ Thursday, August 1, 14:30-15:00, Research I Lecture Hall
@@ -808,7 +808,7 @@ Critical behavior of the SIR model with mobility and disorder
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Dynamics of Time Delay Epidemic Model of Noise-Induced Hearing Loss">
-    <input type="submit" value="Karmand K. Ahmad"> </form>
+    <input type="submit" value="Bootan Rahman"> </form>
 Dynamics of Time Delay Epidemic Model of Noise-Induced Hearing Loss
   ~ Soran University
   ~ Wednesday, July 31, 17:00-17:30, East Hall 1
@@ -833,7 +833,7 @@ Dynamics of large bacterial metabolic networks
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Reducing blackout risk by segmenting large power grids with HVDC lines">
-    <input type="submit" value="Damià Gomila"> </form>
+    <input type="submit" value="Pere Colet"> </form>
 Reducing blackout risk by segmenting large power grids with HVDC lines
   ~ IFISC (CSIC-UIB)
   ~ Tuesday, July 30, 11:00-11:30, Research V Seminar Room
@@ -929,7 +929,7 @@ Modelling Dynamics and Control of Power Grids
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="How strong fluctuations induce tipping in power grids">
-    <input type="submit" value="Julian Fleck"> </form>
+    <input type="submit" value="Seungjae Lee"> </form>
 How strong fluctuations induce tipping in power grids
   ~ Technische Universität Dresden
   ~ Wednesday, July 31, 12:00-12:30, Research V Seminar Room
@@ -1250,7 +1250,7 @@ On the ill-posedness of the 2D Boussinesq equations in the class of bounded init
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Non-Uniqueness of Generalized Weak Solutions to the Primitive and Prandtl Equations">
-    <input type="submit" value="Daniel W. Boutros"> </form>
+    <input type="submit" value="Simon Markfelder"> </form>
 Non-Uniqueness of Generalized Weak Solutions to the Primitive and Prandtl Equations
   ~ University of Cambridge
   ~ Wednesday, July 31, 17:00-17:30, Research II Lecture Hall
@@ -1645,7 +1645,7 @@ Improving Defibrillation through an Evolutionary Algorithm
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Transient chaos in heterogeneous excitable media">
-    <input type="submit" value="Melvin Dix"> </form>
+    <input type="submit" value="Ulrich Parlitz"> </form>
 Transient chaos in heterogeneous excitable media
   ~ Max Planck Institute for Dynamics and Self-Organization, Göttingen
   ~ Tuesday, July 30, 15:00-15:30, Research I Lecture Hall
@@ -1693,7 +1693,7 @@ Exploring cardiopulmonary interactions: the importance of improved classificatio
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Characterization of altered electrophysiological properties, spatiotemporal dynamics and arrhythmia mechanisms using high-resolution optical mapping">
-    <input type="submit" value="Nour Raad"> </form>
+    <input type="submit" value="Philip Bittihn"> </form>
 Characterization of altered electrophysiological properties, spatiotemporal dynamics and arrhythmia mechanisms using high-resolution optical mapping
   ~ Technical University of Munich, Klinikum Rechts der Isar, Munich, Germany
   ~ Wednesday, July 31, 14:00-14:30, Research III Lecture Hall
@@ -1753,7 +1753,7 @@ Electrophysiological Structural Modeling of Ventricular Tachycardia based on Pat
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Physical Processes That Shape Electric Image of Cardiac Muscle">
-    <input type="submit" value="Teodor Buchner"> </form>
+    <input type="submit" value="Igor Olczak"> </form>
 Physical Processes That Shape Electric Image of Cardiac Muscle
   ~ Warsaw University of Technology
   ~ Wednesday, July 31, 17:00-17:30, Research III Lecture Hall
@@ -2139,7 +2139,7 @@ Discrete synaptic events induce global oscillations in balanced neural networks
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="From chimeras to collective chaos in networks of heterogeneous Kuramoto oscillator populations">
-    <input type="submit" value="Pol Floriach"> </form>
+    <input type="submit" value="Pau Clusella"> </form>
 From chimeras to collective chaos in networks of heterogeneous Kuramoto oscillator populations
   ~ Universitat Politècnica de Catalunya (UPC)
   ~ Friday, August 2, 11:00-11:30, Research V Seminar Room
@@ -2848,7 +2848,7 @@ Hopf bifurcation in substructures of MAPK
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Finite switching near heteroclinic networks">
-    <input type="submit" value="Sofia Castro"> </form>
+    <input type="submit" value="Liliana Sofia Garrido da Silva"> </form>
 Finite switching near heteroclinic networks
   ~ Faculdade de Economia da Universidade do Porto
   ~ Monday, July 29, 13:30-14:00, East Hall 4
@@ -2871,7 +2871,7 @@ Arbitrary Sensitive Transitions in Recurrent Neural Networks
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Robust heteroclinic cycles in pluridimensions">
-    <input type="submit" value="Sofia Castro"> </form>
+    <input type="submit" value="Alastair Rucklidge"> </form>
 Robust heteroclinic cycles in pluridimensions
   ~ Universidade do Porto
   ~ Monday, July 29, 14:30-15:00, East Hall 4
@@ -2920,7 +2920,7 @@ Bifurcations of Hill regions and relative equilibria in the charged three-body p
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Periodic magnetic geodesics on compact surfaces">
-    <input type="submit" value="Luca Asselle"> </form>
+    <input type="submit" value="Gabriele Benedetti"> </form>
 Periodic magnetic geodesics on compact surfaces
   ~ Rub (Ruhr-Universität Bochum)
   ~ Wednesday, July 31, 14:30-15:00, East Hall 4
@@ -3244,7 +3244,7 @@ Intermittency and dissipation in turbulent wakes
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Short- & long-term forecast of extreme events in atmospheric turbulence">
-    <input type="submit" value="André Fuchs"> </form>
+    <input type="submit" value="Joachim Peinke"> </form>
 Short- & long-term forecast of extreme events in atmospheric turbulence
   ~ Carl von Ossietzky Universität Oldenburg, School of Mathematics and Science, Institute of Physics, ForWind - Center for Wind Energy Research
   ~ Monday, July 29, 13:30-14:00, Research III Lecture Hall
@@ -3256,7 +3256,7 @@ Short- & long-term forecast of extreme events in atmospheric turbulence
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Extracting similarity from data">
-    <input type="submit" value="Nikolaos Bempedelis"> </form>
+    <input type="submit" value="Konstantinos Steiros"> </form>
 Extracting similarity from data
   ~ Queen Mary University of London
   ~ Monday, July 29, 14:00-14:30, Research III Lecture Hall
@@ -3268,7 +3268,7 @@ Extracting similarity from data
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Systematic construction of velocity gradient models for turbulence">
-    <input type="submit" value="Maurizio Carbone"> </form>
+    <input type="submit" value="Michael Wilczek"> </form>
 Systematic construction of velocity gradient models for turbulence
   ~ University of Bayreuth
   ~ Monday, July 29, 14:30-15:00, Research III Lecture Hall
@@ -3434,7 +3434,7 @@ Self-organised pattern formation in network-organised metacommunities supports a
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Travelling pulses on three spatial scales in a Klausmeier-type vegetation-autotoxicity model">
-    <input type="submit" value="Paul Carter"> </form>
+    <input type="submit" value="Frits Veerman"> </form>
 Travelling pulses on three spatial scales in a Klausmeier-type vegetation-autotoxicity model
   ~ University of California, Irvine
   ~ Wednesday, July 31, 18:00-18:30, IRC Seminar Room 3
@@ -3460,7 +3460,7 @@ Learning effective coarse PDEs from agent-based simulations of crowd dynamics
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Complex and 3-dimensional RNA random walks: comparison and application to sequence data across biological taxa">
-    <input type="submit" value="Jack Mortimer"> </form>
+    <input type="submit" value="Jens Christian Claussen"> </form>
 Complex and 3-dimensional RNA random walks: comparison and application to sequence data across biological taxa
   ~ University  of Birmingham, UK
   ~ Wednesday, July 31, 14:00-14:30, SCC Conference Hall
@@ -3795,7 +3795,7 @@ The effect of nonlinear dynamics and axonal delays on the relationship between s
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Electromechanical memcapacitive neurons for energy-efficient spiking neural networks">
-    <input type="submit" value="Zixi Zhang"> </form>
+    <input type="submit" value="Yuriy Pershin"> </form>
 Electromechanical memcapacitive neurons for energy-efficient spiking neural networks
   ~ Peking University
   ~ Friday, August 2, 11:30-12:00, IRC Seminar Room 1
@@ -3807,7 +3807,7 @@ Electromechanical memcapacitive neurons for energy-efficient spiking neural netw
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Function and structure in cultured neuronal networks">
-    <input type="submit" value="Luis M. Ballesteros-Esteban"> </form>
+    <input type="submit" value="Juan A. Almendral"> </form>
 Function and structure in cultured neuronal networks
   ~ Rey Juan Carlos University; GISC; CTB-UPM
   ~ Friday, August 2, 12:00-12:30, IRC Seminar Room 1
@@ -3831,7 +3831,7 @@ The dynamics of human action and perception during the coordination of a ball in
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Asymmetry in the distribution of unit properties is the key factor determining the efficiency of collective oscillations in FitzHugh-Nagumo networks">
-    <input type="submit" value="Stefano Scialla"> </form>
+    <input type="submit" value="Marco Patriarca"> </form>
 Asymmetry in the distribution of unit properties is the key factor determining the efficiency of collective oscillations in FitzHugh-Nagumo networks
   ~ National Institute of Chemical Physics and Biophysics
   ~ Friday, August 2, 14:00-14:30, IRC Seminar Room 1
@@ -4037,7 +4037,7 @@ Equidistribution of cusp points of Hecke triangle groups
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Multivariate mean equicontinuity">
-    <input type="submit" value="Jonas Breitenbücher"> </form>
+    <input type="submit" value="Lino Haupt"> </form>
 Multivariate mean equicontinuity
   ~ Friedrich-Schiller Universität Jena
   ~ Tuesday, July 30, 13:30-14:00, East Hall 4
@@ -4396,7 +4396,7 @@ Pattern formation in multicellular systems: nonlocal models and the importance o
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Thermocapillary thin films: periodic steady states and film rupture">
-    <input type="submit" value="Gabriele Brüll"> </form>
+    <input type="submit" value="Bastian Hilder"> </form>
 Thermocapillary thin films: periodic steady states and film rupture
   ~ Lund University
   ~ Monday, July 29, 17:00-17:30, East Hall 3
@@ -4568,7 +4568,7 @@ Bifurcation of the dynamically induced conformation for the bead-spring Hamilton
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Temporal localized states beyond the uniform field limit in injected Kerr resonators ">
-    <input type="submit" value="Thomas Seidel"> </form>
+    <input type="submit" value="Svetlana Gurevich"> </form>
 Temporal localized states beyond the uniform field limit in injected Kerr resonators 
   ~ Monday, July 29, 14:00-14:30, IRC Seminar Room 2
 
@@ -4579,7 +4579,7 @@ Temporal localized states beyond the uniform field limit in injected Kerr resona
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Multistable Kuramoto splay states in a crystal of mode-locked laser pulses">
-    <input type="submit" value="Thomas Seidel"> </form>
+    <input type="submit" value="Julien Javaloyes"> </form>
 Multistable Kuramoto splay states in a crystal of mode-locked laser pulses
   ~ Monday, July 29, 14:30-15:00, IRC Seminar Room 2
 
@@ -4590,7 +4590,7 @@ Multistable Kuramoto splay states in a crystal of mode-locked laser pulses
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Phase-to-trigger wave transition: The spatial coordination of mitosis">
-    <input type="submit" value="Owen Puls"> </form>
+    <input type="submit" value="Daniel Ruiz-Reynés"> </form>
 Phase-to-trigger wave transition: The spatial coordination of mitosis
   ~ Monday, July 29, 15:00-15:30, IRC Seminar Room 2
 
@@ -4649,7 +4649,7 @@ Stable multi-pulses for the two-mode forced Lugiato-Lefever equation
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Experimenting with and analyzing reaction-diffusion waves on physicochemical fractal media.">
-    <input type="submit" value="Ivan Proskurkin"> </form>
+    <input type="submit" value="Anastasia Lavrova"> </form>
 Experimenting with and analyzing reaction-diffusion waves on physicochemical fractal media.
   ~ Immanuel Kant Baltic Federal University
   ~ Tuesday, July 30, 11:30-12:00, IRC Seminar Room 2
@@ -4905,7 +4905,7 @@ A numerical method for measuring dynamical phase transitions in time series
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Slow Invariant Manifolds for Singularly Perturbed systems of ODEs and in general Slow-Fast Dynamical Systems via Physics-Informed Neural Networks ">
-    <input type="submit" value="Gianluca Fabiani"> </form>
+    <input type="submit" value="Constantinos Siettos"> </form>
 Slow Invariant Manifolds for Singularly Perturbed systems of ODEs and in general Slow-Fast Dynamical Systems via Physics-Informed Neural Networks 
   ~ Scuola Superiore Meridionale
   ~ Wednesday, July 31, 11:00-11:30, IRC Seminar Room 3
@@ -5074,7 +5074,7 @@ Self-organization of large random ecosystems under deterministic perturbations
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="ESABO Co-Abundance Analysis: cases where the binarization threshold matters">
-    <input type="submit" value="Devi Chandran"> </form>
+    <input type="submit" value="Jens Christian Claussen"> </form>
 ESABO Co-Abundance Analysis: cases where the binarization threshold matters
   ~ University of Birmingham, UK
   ~ Thursday, August 1, 16:00-18:30, Campus Center (IRC) Foyer
@@ -5597,7 +5597,7 @@ A new paradigm in power grid modeling
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Control-based continuation in an atomic force microscope experiment">
-    <input type="submit" value="Hannes Wallner"> </form>
+    <input type="submit" value="Jens Starke"> </form>
 Control-based continuation in an atomic force microscope experiment
   ~ University of Rostock
   ~ Thursday, August 1, 16:00-18:30, Campus Center (IRC) Foyer
