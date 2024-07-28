@@ -14,8 +14,9 @@ Bremen, July 29 - August 2, 2024
 ### News
 
 * [Program overview](Program/Time_Slots_Final.pdf)
-* [Detailed schedule (tentative)](https://express.converia.de/frontend/index.php?page_id=37679)
+* [Detailed schedule](https://express.converia.de/frontend/index.php?page_id=37679)
 * [List of all contributions](Program/Contributions/)
+* [Campus map](Locaction/campus-map-ddays.pdf)
 * <span style="color:SeaGreen;">Updated [local information](Location/Local_Information) now available!</span>
 * Welcome reception on Sunday, July 28, from 18:00 in front of the Campus Center (IRC)
 * Arrival map from Schönebeck station bus stop to the campus main gate:
