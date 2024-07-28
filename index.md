@@ -19,6 +19,7 @@ Bremen, July 29 - August 2, 2024
 * [Campus map](Location/campus-map-ddays.pdf)
 * <span style="color:SeaGreen;">Updated [local information](Location/Local_Information) now available!</span>
 * Welcome reception on Sunday, July 28, from 18:00 in front of the Campus Center (IRC)
+* Note that the registration desk will be open from 8 AM Mo-Fri in the SCC where the plenary talks are
 * Arrival map from Schönebeck station bus stop to the campus main gate:
 
 <img style="width: 80%;float: center;" src="Directions.png" alt="" title="Arrival map" />
