@@ -18,6 +18,9 @@ Bremen, July 29 - August 2, 2024
 * [List of all contributions](Program/Contributions/)
 * <span style="color:SeaGreen;">Updated [local information](Location/Local_Information) now available!</span>
 * Welcome reception on Sunday, July 28, from 18:00 in front of the Campus Center (IRC)
+* Arrival map from Schönebeck station bus stop to the campus main gate:
+
+<img style="width: 80%;float: center;" src="Directions.png" alt="" title="Arrival map" />
 
 
 ### Conference Topics
