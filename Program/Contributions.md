@@ -72,9 +72,9 @@ Banach spaces and Bernoulli Billiards in Bremen
     <input type="hidden" name="v" value="List">
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
-    <input type="hidden" name="q" value="Thermodynamical formalism for geometric structures on surfaces">
+    <input type="hidden" name="q" value="-- CANCELLED -- (Thermodynamical formalism for geometric structures on surfaces)">
     <input type="submit" value="Ursula Hamenstädt"> </form>
-Thermodynamical formalism for geometric structures on surfaces
+-- CANCELLED -- (Thermodynamical formalism for geometric structures on surfaces)
   ~ University Bonn
   ~ Tuesday, July 30, 16:00-17:00, SCC Conference Hall
 
@@ -325,9 +325,9 @@ Numerical bifurcation analysis for geometric PDEs
     <input type="hidden" name="v" value="List">
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
-    <input type="hidden" name="q" value="Cross-compensating necklaces of nonhermitian waveguides: trajectory confinement and Liouville integrability">
+    <input type="hidden" name="q" value="Variational formalism for the Klein-Gordon oscillon">
     <input type="submit" value="Igor Barashenkov"> </form>
-Cross-compensating necklaces of nonhermitian waveguides: trajectory confinement and Liouville integrability
+Variational formalism for the Klein-Gordon oscillon
   ~ University of Cape Town
   ~ Wednesday, July 31, 17:00-17:30, Research I Lecture Hall
 
@@ -1475,10 +1475,10 @@ Predicting fluctuations in a chaotic cancer model through machine learning
     <input type="hidden" name="v" value="List">
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
-    <input type="hidden" name="q" value="Predicting sudden transitions in complex systems by ordinal methods">
-    <input type="submit" value="Inmaculada Leyva"> </form>
-Predicting sudden transitions in complex systems by ordinal methods
-  ~ Universidad Rey Juan Carlos, Madrid (Spain)
+    <input type="hidden" name="q" value="statFEM -- dealing with imperfect models in a statistical learning framework">
+    <input type="submit" value="Thomas Stemler"> </form>
+statFEM -- dealing with imperfect models in a statistical learning framework
+  ~ The University of Western Australia
   ~ Wednesday, July 31, 14:00-14:30, IRC Seminar Room 2
 
 <form class="form-horizontal" name="schedule_search"
@@ -1487,10 +1487,10 @@ Predicting sudden transitions in complex systems by ordinal methods
     <input type="hidden" name="v" value="List">
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
-    <input type="hidden" name="q" value="statFEM -- dealing with imperfect models in a statistical learning framework">
-    <input type="submit" value="Thomas Stemler"> </form>
-statFEM -- dealing with imperfect models in a statistical learning framework
-  ~ The University of Western Australia
+    <input type="hidden" name="q" value="Characterizing the spike timing of a chaotic laser by using ordinal analysis and machine learning">
+    <input type="submit" value="Bruno Boaretto"> </form>
+Characterizing the spike timing of a chaotic laser by using ordinal analysis and machine learning
+  ~ Universitat Politècnica de Catalunya (UPC)
   ~ Wednesday, July 31, 14:30-15:00, IRC Seminar Room 2
 
 #### Minisymposium on Lost and found: Searching for underlying dynamical relations in data using Machine Learning
@@ -1596,10 +1596,10 @@ Impact of Source-Sink Mismatch on a New 3D Cardiac Defibrillation Method
     <input type="hidden" name="v" value="List">
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
-    <input type="hidden" name="q" value="Modelling dynamics and feedback control of vortices during defibrillation in cardiac systems ">
-    <input type="submit" value="Markus Bär"> </form>
-Modelling dynamics and feedback control of vortices during defibrillation in cardiac systems 
-  ~ Physikalisch-Technische Bundesanstalt (PTB)
+    <input type="hidden" name="q" value="How Physics-Informed Neural Networks Can Characterise Cardiac Dynamics">
+    <input type="submit" value="Marta Varela"> </form>
+How Physics-Informed Neural Networks Can Characterise Cardiac Dynamics
+  ~ Imperial College London
   ~ Tuesday, July 30, 12:00-12:30, Research I Lecture Hall
 
 <form class="form-horizontal" name="schedule_search"
@@ -1668,10 +1668,10 @@ Parameter and variable estimation in cardiac dynamics using adjoint optimization
     <input type="hidden" name="v" value="List">
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
-    <input type="hidden" name="q" value="How Physics-Informed Neural Networks Can Characterise Cardiac Dynamics">
-    <input type="submit" value="Marta Varela"> </form>
-How Physics-Informed Neural Networks Can Characterise Cardiac Dynamics
-  ~ Imperial College London
+    <input type="hidden" name="q" value="Modelling dynamics and feedback control of vortices during defibrillation in cardiac systems ">
+    <input type="submit" value="Markus Bär"> </form>
+Modelling dynamics and feedback control of vortices during defibrillation in cardiac systems 
+  ~ Physikalisch-Technische Bundesanstalt (PTB)
   ~ Wednesday, July 31, 11:30-12:00, Research III Lecture Hall
 
 <form class="form-horizontal" name="schedule_search"
@@ -2090,23 +2090,11 @@ Collective behavior in adaptive networks
     <input type="hidden" name="v" value="List">
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
-    <input type="hidden" name="q" value="Local and global intermittency on the edge of synchronization in complex networks ">
-    <input type="submit" value="Inmaculada Leyva"> </form>
-Local and global intermittency on the edge of synchronization in complex networks 
-  ~ Universidad Rey Juan Carlos, Madrid (Spain)
-  ~ Thursday, August 1, 11:00-11:30, Research V Seminar Room
-
-<form class="form-horizontal" name="schedule_search"
-    method="POST" action="https://express.converia.de/frontend/index.php">
-    <input type="hidden" name="page_id" value="37679">
-    <input type="hidden" name="v" value="List">
-    <input type="hidden" name="day" value="all">
-    <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Preventing critical transitions by microperturbations - lessons learned from epilepsy modelling">
     <input type="submit" value="Jaroslav Hlinka"> </form>
 Preventing critical transitions by microperturbations - lessons learned from epilepsy modelling
   ~ Institute of Computer Science, Czech Academy of Sciences
-  ~ Thursday, August 1, 11:30-12:00, Research V Seminar Room
+  ~ Thursday, August 1, 11:00-11:30, Research V Seminar Room
 
 <form class="form-horizontal" name="schedule_search"
     method="POST" action="https://express.converia.de/frontend/index.php">
@@ -2118,7 +2106,7 @@ Preventing critical transitions by microperturbations - lessons learned from epi
     <input type="submit" value="Andreas Amann"> </form>
 Competing attractors in multifunctional networks
   ~ University College Cork (UCC)
-  ~ Thursday, August 1, 12:00-12:30, Research V Seminar Room
+  ~ Thursday, August 1, 11:30-12:00, Research V Seminar Room
 
 <form class="form-horizontal" name="schedule_search"
     method="POST" action="https://express.converia.de/frontend/index.php">
@@ -2130,7 +2118,7 @@ Competing attractors in multifunctional networks
     <input type="submit" value="Alessandro Torcini"> </form>
 Discrete synaptic events induce global oscillations in balanced neural networks
   ~ CY Cergy-Paris University, France
-  ~ Thursday, August 1, 12:30-13:00, Research V Seminar Room
+  ~ Thursday, August 1, 12:00-12:30, Research V Seminar Room
 
 <form class="form-horizontal" name="schedule_search"
     method="POST" action="https://express.converia.de/frontend/index.php">
@@ -2280,9 +2268,10 @@ Benchmarking prediction skill in binary El Niño forecasts
     <input type="hidden" name="v" value="List">
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
-    <input type="hidden" name="q" value="Regional coupled and decoupled day-night compound hot extremes over the mid-lower reaches of the Yangtze River: characteristics and mechanisms">
-    <input type="submit" value="Yixuan Guo"> </form>
-Regional coupled and decoupled day-night compound hot extremes over the mid-lower reaches of the Yangtze River: characteristics and mechanisms
+    <input type="hidden" name="q" value="Causality inference and machine learning modeling for nonlinear time series">
+    <input type="submit" value="Yu Huang"> </form>
+Causality inference and machine learning modeling for nonlinear time series
+  ~ Technical University of Munich
   ~ Tuesday, July 30, 15:00-15:30, Research II Lecture Hall
 
 <form class="form-horizontal" name="schedule_search"
@@ -2291,10 +2280,9 @@ Regional coupled and decoupled day-night compound hot extremes over the mid-l
     <input type="hidden" name="v" value="List">
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
-    <input type="hidden" name="q" value="Causality inference and machine learning modeling for nonlinear time series">
-    <input type="submit" value="Yu Huang"> </form>
-Causality inference and machine learning modeling for nonlinear time series
-  ~ Technical University of Munich
+    <input type="hidden" name="q" value="Regional coupled and decoupled day-night compound hot extremes over the mid-lower reaches of the Yangtze River: characteristics and mechanisms">
+    <input type="submit" value="Yixuan Guo"> </form>
+Regional coupled and decoupled day-night compound hot extremes over the mid-lower reaches of the Yangtze River: characteristics and mechanisms
   ~ Wednesday, July 31, 11:00-11:30, Research II Lecture Hall
 
 <form class="form-horizontal" name="schedule_search"
@@ -2592,23 +2580,11 @@ Insights into oscillator network dynamics using a phase-isostable framework
     <input type="hidden" name="v" value="List">
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
-    <input type="hidden" name="q" value="Synchrony, neural fields, and coupling to the extracellular space">
-    <input type="submit" value="Oliver Cattell"> </form>
-Synchrony, neural fields, and coupling to the extracellular space
-  ~ University of Nottingham
-  ~ Thursday, August 1, 15:00-15:30, IRC Seminar Room 1
-
-<form class="form-horizontal" name="schedule_search"
-    method="POST" action="https://express.converia.de/frontend/index.php">
-    <input type="hidden" name="page_id" value="37679">
-    <input type="hidden" name="v" value="List">
-    <input type="hidden" name="day" value="all">
-    <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Stability of partially synchronized patterns in coupled oscillator networks">
     <input type="submit" value="Oleh E. Omel'chenko"> </form>
 Stability of partially synchronized patterns in coupled oscillator networks
   ~ University of Potsdam
-  ~ Thursday, August 1, 15:30-16:00, IRC Seminar Room 1
+  ~ Thursday, August 1, 15:00-15:30, IRC Seminar Room 1
 
 #### Minisymposium on Quantum simulation and computation at the edge of chaos
 <form class="form-horizontal" name="schedule_search"
