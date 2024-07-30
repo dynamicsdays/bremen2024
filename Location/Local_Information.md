@@ -7,11 +7,12 @@
 * Get your room keys and detailed instructions to find your room from the porters lodge at the main gate
 * Linens are provided, which includes towels, bathmat, bed sheets, pillow and case, and a comforter.  Also provided: 3 hangers, soap, shampoo, and shower gel. 
 
-#### Conference Dinner
+#### Boat Ride and Conference Dinner
 
-* Local Guides will lead a walk along the Lesum river (about 40 min) to the departure point of the boats
-* There is an alternative group going by bus (regular public transportation, leaving from Taunusstraße bus stop) up to Bremen-Vegesack.  It is theoretically possible to buy tickets from the driver, but as this option obviously does not scale well; whoever joins this group is strongly requested to get a pre-paid ticket (e.g. self-organize in groups of 4 and get tickets are reduced rate from the ticket machine at Schönebeck station - these pre-paid tickets only need to be stamped on the bus)
-* Point of departure is [Fähranleger Vegesack](https://www.google.com/maps/place/Vegesack/@53.1685821,8.6200406,16z/data=!3m1!4b1!4m6!3m5!1s0x47b6d354c4783a39:0x4b722b4e6e3d4f67!8m2!3d53.1685789!4d8.6226155!16s%2Fg%2F11b77pps6k?hl=de&entry=ttu)
+* Starting outside the SCC building, local guides will lead a walk along the Lesum river (about 40 min, 2.5 km) to the departure point of the boats.  One group will depart at 16:30 (more scenic) and another at 17:00 (more rapid).
+* The boat ride will depart at 18:00 from [Fähranleger Vegesack](https://www.google.com/maps/place/Vegesack/@53.1685821,8.6200406,16z/data=!3m1!4b1!4m6!3m5!1s0x47b6d354c4783a39:0x4b722b4e6e3d4f67!8m2!3d53.1685789!4d8.6226155!16s%2Fg%2F11b77pps6k?hl=de&entry=ttu)
+* There is an alternative group going with the 94 bus from Seefahrtstraße bus stop in direction Schwanewede up to Bremen-Vegesack.  These depart at 16:54, 17:09 and 17:24.  It is theoretically possible to buy tickets from the driver, but as this option obviously does not scale well; whoever joins this group is strongly requested to get a pre-paid ticket (e.g. self-organize in groups of 4 and get tickets are reduced rate from the ticket machine at Schönebeck station - these pre-paid tickets only need to be stamped on the bus)
+* For those, who rather want to go to Vegesack on their own: PLEASE MAKE SURE TO BE AT THE BOAT DEPARTURE POINT AT 17:45 AT THE LATEST !!
 * For people staying downtown Bremen, there is a drop-off point at [Martinianleger Bremen](https://www.google.com/maps/place/Martinianleger/@53.0745099,8.801166,17z/data=!3m1!4b1!4m6!3m5!1s0x47b128198d55fae5:0x4d1fdcea8613a1cd!8m2!3d53.0745067!4d8.8037409!16s%2Fg%2F11btyvkjk5?hl=de&entry=ttu)
 
 #### Poster session
