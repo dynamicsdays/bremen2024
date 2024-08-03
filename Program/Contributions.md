@@ -155,10 +155,10 @@ On anomalous diffusion
     <input type="hidden" name="v" value="List">
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
-    <input type="hidden" name="q" value="Hierarchies of Cluster States in Ensembles of Coupled Oscillators">
-    <input type="submit" value="Katharina Krischer"> </form>
-Hierarchies of Cluster States in Ensembles of Coupled Oscillators
-  ~ Technische Universität München
+    <input type="hidden" name="q" value="Learning in Living Systems">
+    <input type="submit" value="Viola Priesemann"> </form>
+Learning in Living Systems
+  ~ Max Planck Institute for Dynamics and Self-Organization
   ~ Friday, August 2, 09:30-10:30, SCC Conference Hall
 
 <form class="form-horizontal" name="schedule_search"
@@ -167,10 +167,10 @@ Hierarchies of Cluster States in Ensembles of Coupled Oscillators
     <input type="hidden" name="v" value="List">
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
-    <input type="hidden" name="q" value="Learning in Living Systems">
-    <input type="submit" value="Viola Priesemann"> </form>
-Learning in Living Systems
-  ~ Max Planck Institute for Dynamics and Self-Organization
+    <input type="hidden" name="q" value="-- CANCELLED -- Hierarchies of Cluster States in Ensembles of Coupled Oscillators">
+    <input type="submit" value="Katharina Krischer"> </form>
+-- CANCELLED -- Hierarchies of Cluster States in Ensembles of Coupled Oscillators
+  ~ Technische Universität München
   ~ Friday, August 2, 15:00-16:00, SCC Conference Hall
 
 ## Minisymposia
@@ -220,6 +220,7 @@ Modeling tumor disease and sepsis in physiological networks
     <input type="hidden" name="q" value="Dynamics of adaptive networks with Hebbian and Anti-Hebbian plasticity">
     <input type="submit" value="Andreas Amann"> </form>
 Dynamics of adaptive networks with Hebbian and Anti-Hebbian plasticity
+  ~ University College Cork
   ~ Thursday, August 1, 15:00-15:30, Research II Lecture Hall
 
 <form class="form-horizontal" name="schedule_search"
@@ -314,7 +315,7 @@ Computing Self-similar solutions to NLS equations: A computational/bifurcation a
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Numerical bifurcation analysis for geometric PDEs">
-    <input type="submit" value="Hannes Uecker"> </form>
+    <input type="submit" value="Alexander Meiners"> </form>
 Numerical bifurcation analysis for geometric PDEs
   ~ Universität Oldenburg
   ~ Wednesday, July 31, 16:30-17:00, Research I Lecture Hall
@@ -412,7 +413,7 @@ Stability of solitons in the parametrically driven and damped nonlinear Dirac eq
     <input type="hidden" name="q" value="A very complicated route for wavelength change in vertical convection">
     <input type="submit" value="Laurette Tuckerman"> </form>
 A very complicated route for wavelength change in vertical convection
-  ~ École Polytechnique Fédérale de Lausanne (EPFL)
+  ~ PMMH (CNRS, ESPCI - PSL, Sorbonne)
   ~ Thursday, August 1, 14:30-15:00, Research I Lecture Hall
 
 <form class="form-horizontal" name="schedule_search"
@@ -565,10 +566,10 @@ Localized structures in delay-differential equations with large delay
     <input type="hidden" name="v" value="List">
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
-    <input type="hidden" name="q" value="Pattern-Selective Feedback Stabilization of Ginzburg-Landau Spiral Waves">
-    <input type="submit" value="Isabelle Schneider"> </form>
-Pattern-Selective Feedback Stabilization of Ginzburg-Landau Spiral Waves
-  ~ Freie Universität Berlin
+    <input type="hidden" name="q" value="Phase reduction with and without time delay">
+    <input type="submit" value="Babette de Wolff"> </form>
+Phase reduction with and without time delay
+  ~ Vrije Universiteit Amsterdam
   ~ Friday, August 2, 13:30-14:00, IRC Seminar Room 2
 
 <form class="form-horizontal" name="schedule_search"
@@ -810,7 +811,7 @@ Critical behavior of the SIR model with mobility and disorder
     <input type="hidden" name="q" value="Dynamics of Time Delay Epidemic Model of Noise-Induced Hearing Loss">
     <input type="submit" value="Bootan Rahman"> </form>
 Dynamics of Time Delay Epidemic Model of Noise-Induced Hearing Loss
-  ~ Soran University
+  ~ University of Kurdistan - Hewler
   ~ Wednesday, July 31, 17:00-17:30, East Hall 1
 
 <form class="form-horizontal" name="schedule_search"
@@ -1252,7 +1253,7 @@ On the ill-posedness of the 2D Boussinesq equations in the class of bounded init
     <input type="hidden" name="q" value="Non-Uniqueness of Generalized Weak Solutions to the Primitive and Prandtl Equations">
     <input type="submit" value="Simon Markfelder"> </form>
 Non-Uniqueness of Generalized Weak Solutions to the Primitive and Prandtl Equations
-  ~ University of Cambridge
+  ~ Julius-Maximilians-Universität Würzburg
   ~ Wednesday, July 31, 17:00-17:30, Research II Lecture Hall
 
 <form class="form-horizontal" name="schedule_search"
@@ -1464,9 +1465,9 @@ Learning the dynamics while learning the connections: models of dynamical networ
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Predicting fluctuations in a chaotic cancer model through machine learning">
-    <input type="submit" value="Kelly C. Iarosz"> </form>
+    <input type="submit" value="Eduardo Luís Brugnago"> </form>
 Predicting fluctuations in a chaotic cancer model through machine learning
-  ~ University Center UNIFATEB
+  ~ USP
   ~ Wednesday, July 31, 13:30-14:00, IRC Seminar Room 2
 
 <form class="form-horizontal" name="schedule_search"
@@ -1695,7 +1696,7 @@ Exploring cardiopulmonary interactions: the importance of improved classificatio
     <input type="hidden" name="q" value="Characterization of altered electrophysiological properties, spatiotemporal dynamics and arrhythmia mechanisms using high-resolution optical mapping">
     <input type="submit" value="Philip Bittihn"> </form>
 Characterization of altered electrophysiological properties, spatiotemporal dynamics and arrhythmia mechanisms using high-resolution optical mapping
-  ~ Technical University of Munich, Klinikum Rechts der Isar, Munich, Germany
+  ~ Max Planck Institute for Dynamics and Self-Organization
   ~ Wednesday, July 31, 14:00-14:30, Research III Lecture Hall
 
 <form class="form-horizontal" name="schedule_search"
@@ -2401,9 +2402,9 @@ On the early warnings of major climatic events: recent progresses based on clima
     <input type="hidden" name="day" value="all">
     <input type="hidden" name="do" value="13">
     <input type="hidden" name="q" value="Nonlinear Impulse Pattern Formulation dynamical social and political prediction algorithm for city planning and public participation">
-    <input type="submit" value="Rolf Bader"> </form>
+    <input type="submit" value="Simon Linke"> </form>
 Nonlinear Impulse Pattern Formulation dynamical social and political prediction algorithm for city planning and public participation
-  ~ Universität Hamburg 
+  ~ Ligeti Center
   ~ Thursday, August 1, 11:00-11:30, IRC Seminar Room 3
 
 <form class="form-horizontal" name="schedule_search"
@@ -2826,7 +2827,7 @@ Hopf bifurcation in substructures of MAPK
     <input type="hidden" name="q" value="Finite switching near heteroclinic networks">
     <input type="submit" value="Liliana Sofia Garrido da Silva"> </form>
 Finite switching near heteroclinic networks
-  ~ Faculdade de Economia da Universidade do Porto
+  ~ Universidade do Porto
   ~ Monday, July 29, 13:30-14:00, East Hall 4
 
 <form class="form-horizontal" name="schedule_search"
@@ -2849,7 +2850,7 @@ Arbitrary Sensitive Transitions in Recurrent Neural Networks
     <input type="hidden" name="q" value="Robust heteroclinic cycles in pluridimensions">
     <input type="submit" value="Alastair Rucklidge"> </form>
 Robust heteroclinic cycles in pluridimensions
-  ~ Universidade do Porto
+  ~ University of Leeds
   ~ Monday, July 29, 14:30-15:00, East Hall 4
 
 <form class="form-horizontal" name="schedule_search"
@@ -2898,7 +2899,7 @@ Bifurcations of Hill regions and relative equilibria in the charged three-body p
     <input type="hidden" name="q" value="Periodic magnetic geodesics on compact surfaces">
     <input type="submit" value="Gabriele Benedetti"> </form>
 Periodic magnetic geodesics on compact surfaces
-  ~ Rub (Ruhr-Universität Bochum)
+  ~ Vrije Univ. Amsterdam
   ~ Wednesday, July 31, 14:30-15:00, East Hall 4
 
 <form class="form-horizontal" name="schedule_search"
@@ -3234,7 +3235,7 @@ Short- & long-term forecast of extreme events in atmospheric turbulence
     <input type="hidden" name="q" value="Extracting similarity from data">
     <input type="submit" value="Konstantinos Steiros"> </form>
 Extracting similarity from data
-  ~ Queen Mary University of London
+  ~ Imperial College London
   ~ Monday, July 29, 14:00-14:30, Research III Lecture Hall
 
 <form class="form-horizontal" name="schedule_search"
@@ -3412,7 +3413,7 @@ Self-organised pattern formation in network-organised metacommunities supports a
     <input type="hidden" name="q" value="Travelling pulses on three spatial scales in a Klausmeier-type vegetation-autotoxicity model">
     <input type="submit" value="Frits Veerman"> </form>
 Travelling pulses on three spatial scales in a Klausmeier-type vegetation-autotoxicity model
-  ~ University of California, Irvine
+  ~ Leiden University
   ~ Wednesday, July 31, 18:00-18:30, IRC Seminar Room 3
 
 ## Contributed Sessions
@@ -3773,7 +3774,7 @@ The effect of nonlinear dynamics and axonal delays on the relationship between s
     <input type="hidden" name="q" value="Electromechanical memcapacitive neurons for energy-efficient spiking neural networks">
     <input type="submit" value="Yuriy Pershin"> </form>
 Electromechanical memcapacitive neurons for energy-efficient spiking neural networks
-  ~ Peking University
+  ~ University of South Carolina
   ~ Friday, August 2, 11:30-12:00, IRC Seminar Room 1
 
 <form class="form-horizontal" name="schedule_search"
@@ -4374,7 +4375,7 @@ Pattern formation in multicellular systems: nonlocal models and the importance o
     <input type="hidden" name="q" value="Thermocapillary thin films: periodic steady states and film rupture">
     <input type="submit" value="Bastian Hilder"> </form>
 Thermocapillary thin films: periodic steady states and film rupture
-  ~ Lund University
+  ~ Technical University of Munich (TUM) 
   ~ Monday, July 29, 17:00-17:30, East Hall 3
 
 <form class="form-horizontal" name="schedule_search"
@@ -4568,6 +4569,7 @@ Multistable Kuramoto splay states in a crystal of mode-locked laser pulses
     <input type="hidden" name="q" value="Phase-to-trigger wave transition: The spatial coordination of mitosis">
     <input type="submit" value="Daniel Ruiz-Reynés"> </form>
 Phase-to-trigger wave transition: The spatial coordination of mitosis
+  ~ Laboratory of Dynamics in Biological Systems (DiBS) and Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)
   ~ Monday, July 29, 15:00-15:30, IRC Seminar Room 2
 
 <form class="form-horizontal" name="schedule_search"
@@ -4627,7 +4629,7 @@ Stable multi-pulses for the two-mode forced Lugiato-Lefever equation
     <input type="hidden" name="q" value="Experimenting with and analyzing reaction-diffusion waves on physicochemical fractal media.">
     <input type="submit" value="Anastasia Lavrova"> </form>
 Experimenting with and analyzing reaction-diffusion waves on physicochemical fractal media.
-  ~ Immanuel Kant Baltic Federal University
+  ~ Saint-Petersburg State Research Institute of Phthisiopulmonology of the Ministry of Healthcare of the Russian Federation
   ~ Tuesday, July 30, 11:30-12:00, IRC Seminar Room 2
 
 <form class="form-horizontal" name="schedule_search"
@@ -4883,7 +4885,7 @@ A numerical method for measuring dynamical phase transitions in time series
     <input type="hidden" name="q" value="Slow Invariant Manifolds for Singularly Perturbed systems of ODEs and in general Slow-Fast Dynamical Systems via Physics-Informed Neural Networks ">
     <input type="submit" value="Constantinos Siettos"> </form>
 Slow Invariant Manifolds for Singularly Perturbed systems of ODEs and in general Slow-Fast Dynamical Systems via Physics-Informed Neural Networks 
-  ~ Scuola Superiore Meridionale
+  ~ University of Naples "Federico II"
   ~ Wednesday, July 31, 11:00-11:30, IRC Seminar Room 3
 
 <form class="form-horizontal" name="schedule_search"
