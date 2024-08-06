@@ -13,6 +13,12 @@ Bremen, July 29 - August 2, 2024
 
 ### News
 
+* Congratulation to the winners of the 250 EUR Dynamics Days Europe 2024 AIP poster awards:
+    * Javier Chico Vazquez: The Mathematics of balance
+    * Ana Paula da Silva Koltun: Fractional Tumour‑Immune Model with Drug Resistance
+    * Akari Matsuki: Network inference for synchronous and asynchronous oscillatory systems based on the circle map
+    * Juan Pedro Tarigo: Basin entropy as a tool to study bifurcations in time-delayed systems
+* Congratulation to the winner of the Cambridge University Press best poster award selected by audience poll: Lothar Dirks: On an extension of a topological conjugation between avalanche dynamics in neural networks and translations on the n-Torus
 * [Program overview](Program/Time_Slots_Final.pdf)
 * [Detailed schedule](https://express.converia.de/frontend/index.php?page_id=37679)
 * [List of all contributions](Program/Contributions/)
