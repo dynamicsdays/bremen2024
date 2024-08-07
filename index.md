@@ -5,6 +5,11 @@ pagetitle: Home
 XLIV Dynamics Days Europe
 =========================
 
+
+<br>
+<a href="DynamicsDaysPhoto.jpg"><img style="width: 100%;float: center;" src="DynamicsDaysPhoto_Small.jpg" alt="" title="Dynamics Days Europe, Bremen 2024" />
+<br>
+
 Bremen, July 29 - August 2, 2024
 --------------------------------
 
