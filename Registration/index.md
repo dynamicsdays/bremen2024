@@ -2,9 +2,9 @@
 pagetitle: Registration
 ---
 
-## Registration is now open
+## Registration is now closed
 
-* Please visit the [registration web site](https://express.converia.de/frontend/index.php?folder_id=8423) operated by Converia
+* [registration web site](https://express.converia.de/frontend/index.php?folder_id=8423) operated by Converia
 
 ## Conference fee
 
