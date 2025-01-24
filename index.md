@@ -25,7 +25,7 @@ Bremen, July 29 - August 2, 2024
     * Juan Pedro Tarigo: Basin entropy as a tool to study bifurcations in time-delayed systems
 * Congratulation to the winner of the Cambridge University Press best poster award selected by audience poll: Lothar Dirks: On an extension of a topological conjugation between avalanche dynamics in neural networks and translations on the n-Torus
 * [Program overview](Program/Time_Slots_Final.pdf)
-* [Detailed schedule](https://express.converia.de/frontend/index.php?page_id=37679)
+* [Detailed schedule](https://express.converia.de/frontend/index.php?page_id=37679) – Archived Version: Monday [Overview](MondayOverview.html)/[Talks](MondayTalks.html), Tuesday [Overview](TuesdayOverview.html)/[Talks](TuesdayTalks.html), Wednesday [Overview](WednesdayOverview.html)/[Talks](WednesdayTalks.html), Thursday [Overview](ThursdayOverview.html)/[Talks](ThursdayTalks.html), Friday [Overview](FridayOverview.html)/[Talks](FridayTalks.html)
 * [List of all contributions](Program/Contributions/)
 * Book of Abstracts [(PDF)](Program/bookofabstracts.pdf)
 * [Campus map](Location/campus-map-ddays.pdf)
